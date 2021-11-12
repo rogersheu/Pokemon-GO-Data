@@ -5,7 +5,7 @@ import re
 
 tdPattern = re.compile(r"</?td[^<>]*>")
 spanPattern = re.compile(r"</?span[^<>]*>")
-parenPattern = re.compile(r"\(.*\)")
+parenPattern = re.compile(r"\s\(.*\)")
 
 csvName = "Pokemon Stats.csv"
 
@@ -15,7 +15,8 @@ def pokeScraper():
     pokeTable = pokedexSoup.find("main", class_ = "main-content grid-container")
     pokeChunks = pokeTable.find_all("tr")
 
-    write_to_csv(['Name','FullName','Type','Catch','Flee','Fast Moves','Charge Moves'])
+    write_to_csv(['ID','Name','FullName','Type','Catch','Flee','Fast Moves','Charge Moves'])
+    index = 0
 
     for pokemon in pokeChunks:
         # Get Pokemon Names
@@ -52,15 +53,16 @@ def pokeScraper():
             if re.match(tdPattern, pokeFastMoves):
                 pokeFastMoves = re.sub(tdPattern, "", pokeFastMoves)
                 pokeFastMoves = re.sub(spanPattern, "", pokeFastMoves)
-                pokeFastMoves = re.sub(parenPattern, "", pokeFastMoves)
+                pokeFastMoves = re.sub(parenPattern, "", pokeFastMoves).strip()
             if re.match(tdPattern, pokeChargeMoves):
                 pokeChargeMoves = re.sub(tdPattern, "", pokeChargeMoves)
                 pokeChargeMoves = re.sub(spanPattern, "", pokeChargeMoves)
-                pokeChargeMoves = re.sub(parenPattern, "", pokeChargeMoves)
+                pokeChargeMoves = re.sub(parenPattern, "", pokeChargeMoves).strip()
         else:
             continue
         
-        write_to_csv([pokeName, pokeFullName, pokeTypes, pokeCatch, pokeFlee, pokeFastMoves, pokeChargeMoves])
+        index += 1
+        write_to_csv([index, pokeName, pokeFullName, pokeTypes, pokeCatch, pokeFlee, pokeFastMoves, pokeChargeMoves])
     
 
 def write_to_csv(list_input):
