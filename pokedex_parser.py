@@ -15,7 +15,7 @@ def pokeScraper():
     pokeTable = pokedexSoup.find("main", class_ = "main-content grid-container")
     pokeChunks = pokeTable.find_all("tr")
 
-    write_to_csv(['ID','Name','FullName','Type','Catch','Flee','Fast Moves','Charge Moves'])
+    write_to_csv(['ID','Name','FullName','TypeA','TypeB','Catch','Flee','Fast Moves','Charge Moves'])
     index = 0
 
     for pokemon in pokeChunks:
@@ -34,7 +34,10 @@ def pokeScraper():
         # Get pokemon element for strengths/weaknesses
         pokeTypeList = pokemon.find_all("a", class_ = "type-icon")
         if len(pokeTypeList) > 0:
-            pokeTypes = ";".join(pokeTypeList[i].text for i in range(len(pokeTypeList)))
+            #pokeTypes = ";".join(pokeTypeList[i].text for i in range(len(pokeTypeList)))
+            pokeTypeA = pokeTypeList[0].text
+            if len(pokeTypeList) == 2:
+                pokeTypeB = pokeTypeList[1].text
         else:
             continue
         # Get Catch and Flee rates, HP/Def/Stamina can be found in a different spreadsheet
@@ -62,7 +65,7 @@ def pokeScraper():
             continue
         
         index += 1
-        write_to_csv([index, pokeName, pokeFullName, pokeTypes, pokeCatch, pokeFlee, pokeFastMoves, pokeChargeMoves])
+        write_to_csv([index, pokeName, pokeFullName, pokeTypeA, pokeTypeB, pokeCatch, pokeFlee, pokeFastMoves, pokeChargeMoves])
     
 
 def write_to_csv(list_input):
