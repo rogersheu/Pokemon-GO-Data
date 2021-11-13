@@ -3,8 +3,8 @@ import math
 from csv_functions import write_to_csv
 from csv_functions import reset_csv
 
-moveCombinationCSV = "Pokemon Move Combinations.csv"
-moveStats = "Pokemon Move Stats.csv"
+moveCombinationCSV = "pokeData/Pokemon Move Combinations.csv"
+moveStats = "pokeData/Pokemon Move Stats.csv"
 
 def dps_calculation():
     write_to_csv(moveStats, ['ID','Name','Full Name','Type 1','Type 2','Fast Move','Fast Move Type',
@@ -22,7 +22,7 @@ def dps_calculation():
                 pokeType2 = uniquePokemon[4]
                 currFastMove = uniquePokemon[5]
                 currChargeMove = uniquePokemon[6]
-                with open("fastmoves.csv",'r',newline='') as fastmovesFile:
+                with open("pokeData/fastmoves.csv",'r',newline='') as fastmovesFile:
                     fastmoveReader = csv.reader(fastmovesFile)
                     for fastMove in fastmoveReader:
                         if currFastMove == fastMove[0]:
@@ -31,7 +31,7 @@ def dps_calculation():
                             fastTurns = fastMove[3]
                             fastEnergy = fastMove[4]
                             break
-                with open("chargemoves.csv",'r',newline='') as chargemovesFile:
+                with open("pokeData/chargemoves.csv",'r',newline='') as chargemovesFile:
                     chargemoveReader = csv.reader(chargemovesFile)
                     for chargeMove in chargemoveReader:
                         if currChargeMove == chargeMove[0]:
@@ -40,7 +40,7 @@ def dps_calculation():
                             chargeEnergy = -1 * int(chargeMove[3])
                             chargeEnergy = str(chargeEnergy)
                             break
-                with open("ultraleaguestats.csv",'r',newline='') as basestatsFile:
+                with open("pokeData/ultraleaguestats.csv",'r',newline='') as basestatsFile:
                     basestatsReader = csv.reader(basestatsFile)
                     next(basestatsReader, None)
                     for pokemon in basestatsReader:

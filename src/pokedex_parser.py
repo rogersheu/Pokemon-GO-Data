@@ -9,7 +9,7 @@ tdPattern = re.compile(r"</?td[^<>]*>")
 spanPattern = re.compile(r"</?span[^<>]*>")
 parenPattern = re.compile(r"\s\(.*\)")
 
-generaldataCSV = "Pokemon Stats.csv"
+generaldataCSV = "pokeData/Pokemon Stats.csv"
 
 def pokeScraper():
     pokedexEntries = requests.get('https://pokemondb.net/go/pokedex')

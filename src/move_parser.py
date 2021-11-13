@@ -5,8 +5,8 @@ import re
 from csv_functions import write_to_csv
 from csv_functions import reset_csv
 
-fastmoveCSV = "fastmoves.csv"
-chargemoveCSV = "chargemoves.csv"
+fastmoveCSV = "pokeData/fastmoves.csv"
+chargemoveCSV = "pokeData/chargemoves.csv"
 
 parenPattern = re.compile(r".*\s\(.*\)")
 

@@ -1,0 +1,781 @@
+#,Name,FullName,Type 1,Type 2,Attack,Defense,Stamina,Catch,Flee,Fast Moves,Charge Moves
+001,Bulbasaur,Bulbasaur,Grass,Poison,118,111,128,20%,10%,Vine Whip;Tackle;</td,Seed Bomb;Sludge Bomb;Power Whip;Frustration;</td
+002,Ivysaur,Ivysaur,Grass,Poison,151,143,155,10%,7%,Vine Whip;Razor Leaf;</td,Sludge Bomb;Solar Beam;Power Whip;Frustration;</td
+003,Venusaur,Venusaur,Grass,Poison,198,189,190,5%,5%,Vine Whip;Razor Leaf;</td,Petal Blizzard;Sludge Bomb;Solar Beam;Frenzy Plant;</td
+004,Charmander,Charmander,Fire,Poison,116,93,118,20%,10%,Ember;Scratch;</td,Flamethrower;Flame Charge;Flame Burst;Frustration;</td
+005,Charmeleon,Charmeleon,Fire,Poison,158,126,151,10%,7%,Ember;Scratch;Fire Fang;</td,Flamethrower;Flame Burst;Fire Punch;Frustration;</td
+006,Charizard,Charizard,Fire,Flying,223,173,186,5%,5%,Dragon Breath;Air Slash;Fire Spin;</td,Flamethrower;</td
+007,Squirtle,Squirtle,Water,Flying,94,121,127,20%,10%,Tackle;Bubble;</td,Aqua Jet;Aqua Tail;Water Pulse;Frustration;</td
+008,Wartortle,Wartortle,Water,Flying,126,155,153,10%,7%,Bite;Water Gun;</td,Ice Beam;Aqua Jet;Hydro Pump;Frustration;</td
+009,Blastoise,Blastoise,Water,Flying,171,207,188,5%,5%,Bite;Water Gun;</td,Flash Cannon;Ice Beam;Hydro Pump;Hydro Cannon;</td
+010,Caterpie,Caterpie,Bug,Flying,55,55,128,50%,20%,Bug Bite;Tackle;</td,Struggle;</td
+011,Metapod,Metapod,Bug,Flying,45,80,137,25%,9%,Bug Bite;Tackle;</td,Struggle;</td
+012,Butterfree,Butterfree,Bug,Flying,167,137,155,12.5%,6%,Bug Bite;Confusion;Struggle Bug;</td,Bug Buzz;Signal Beam;Psychic;</td
+013,Weedle,Weedle,Bug,Poison,63,50,120,50%,20%,Bug Bite;Poison Sting;</td,Struggle;Frustration;</td
+014,Kakuna,Kakuna,Bug,Poison,46,75,128,25%,9%,Bug Bite;Poison Sting;</td,Struggle;Frustration;</td
+015,Beedrill,Beedrill,Bug,Poison,169,130,163,12.5%,6%,Bug Bite;Poison Jab;Infestation;</td,Aerial Ace;Drill Run;</td
+016,Pidgey,Pidgey,Normal,Flying,85,73,120,50%,20%,Quick Attack;Tackle;</td,Aerial Ace;Twister;Air Cutter;</td
+017,Pidgeotto,Pidgeotto,Normal,Flying,117,105,160,25%,9%,Wing Attack;Steel Wing;</td,Aerial Ace;Twister;Air Cutter;</td
+018,Pidgeot,Pidgeot,Normal,Flying,166,154,195,12.5%,6%,Wing Attack;</td,Aerial Ace;Air Cutter;Hurricane;Brave Bird;Feather Dance;</td
+019,Rattata,Rattata,Normal,Flying,103,70,102,50%,20%,Quick Attack;Tackle;</td,Dig;Hyper Fang;Body Slam;Frustration;</td
+019,Rattata,Rattata (Alolan Rattata),Dark,Normal,103,70,102,50%,20%,Quick Attack;Tackle;</td,Shadow Ball;Hyper Fang;Crunch;</td
+020,Raticate,Raticate,Normal,Normal,161,139,146,20%,7%,Bite;Quick Attack;</td,Hyper Beam;Dig;Hyper Fang;Frustration;</td
+020,Raticate,Raticate (Alolan Raticate),Dark,Normal,135,154,181,20%,7%,Bite;Quick Attack;</td,Hyper Beam;Hyper Fang;Crunch;</td
+021,Spearow,Spearow,Normal,Flying,112,60,120,50%,15%,Peck;Quick Attack;</td,Drill Peck;Aerial Ace;Twister;Sky Attack;</td
+022,Fearow,Fearow,Normal,Flying,182,133,163,20%,7%,Peck;Steel Wing;</td,Aerial Ace;Drill Run;Twister;Sky Attack;</td
+023,Ekans,Ekans,Poison,Flying,110,97,111,50%,15%,Acid;Poison Sting;</td,Wrap;Poison Fang;Sludge Bomb;Gunk Shot;</td
+024,Arbok,Arbok,Poison,Flying,167,153,155,20%,7%,Bite;Acid;Dragon Tail;</td,Dark Pulse;Sludge Wave;Gunk Shot;Acid Spray;Frustration;</td
+025,Pikachu,Pikachu,Electric,Flying,112,96,111,20%,10%,Thunder Shock;Quick Attack;Present;</td,Discharge;Thunder;</td
+025,Pikachu,Pikachu (Pikachu Libre),Electric,Flying,112,96,111,20%,0%,Thunder Shock;Charm;</td,Thunder Punch;Play Rough;Flying Press;</td
+025,Pikachu,Pikachu (5-Shaped Balloon),Electric,Flying,112,96,111,20%,10%,Thunder Shock;Quick Attack;Present;</td,Discharge;Thunderbolt;Wild Charge;Fly;</td
+025,Pikachu,Pikachu (Pop Star),Electric,Flying,112,96,111,20%,0%,Thunder Shock;Charm;</td,Thunder Punch;Draining Kiss;Play Rough;</td
+025,Pikachu,Pikachu (Rock Star),Electric,Flying,112,96,111,20%,0%,Thunder Shock;Charm;</td,Thunder Punch;Play Rough;Meteor Mash;</td
+026,Raichu,Raichu,Electric,Flying,193,151,155,10%,6%,Thunder Shock;Spark;Volt Switch;Charm;</td,Thunder Punch;Thunder;Brick Break;Wild Charge;Skull Bash;</td
+026,Raichu,Raichu (Alolan Raichu),Electric,Psychic,201,154,155,10%,6%,Thunder Shock;Spark;Volt Switch;</td,Thunder Punch;Psychic;Wild Charge;Grass Knot;</td
+027,Sandshrew,Sandshrew,Ground,Psychic,126,120,137,50%,10%,Mud Shot;Scratch;</td,Dig;Rock Tomb;</td
+027,Sandshrew,Sandshrew (Alolan Sandshrew),Ice,Steel,125,129,137,50%,10%,Metal Claw;Powder Snow;</td,Blizzard;Night Slash;Gyro Ball;</td
+028,Sandslash,Sandslash,Ground,Steel,182,175,181,20%,6%,Mud Shot;Metal Claw;</td,Earthquake;Rock Tomb;Bulldoze;Frustration;</td
+028,Sandslash,Sandslash (Alolan Sandslash),Ice,Steel,177,195,181,20%,6%,Metal Claw;Powder Snow;</td,Ice Punch;Blizzard;Bulldoze;Gyro Ball;</td
+030,Nidorina,Nidorina,Poison,Steel,117,120,172,25%,7%,Bite;Poison Sting;</td,Dig;Poison Fang;Sludge Bomb;Frustration;</td
+031,Nidoqueen,Nidoqueen,Poison,Ground,180,173,207,12.5%,5%,Bite;Poison Jab;</td,Earthquake;Stone Edge;Poison Fang;Sludge Wave;Earth Power;Frustration;</td
+033,Nidorino,Nidorino,Poison,Ground,137,111,156,25%,7%,Poison Jab;Poison Sting;</td,Dig;Sludge Bomb;Horn Attack;Frustration;</td
+034,Nidoking,Nidoking,Poison,Ground,204,156,191,12.5%,5%,Fury Cutter;Poison Jab;Iron Tail;</td,Megahorn;Earthquake;Sludge Wave;Sand Tomb;Earth Power;Frustration;</td
+035,Clefairy,Clefairy,Fairy,Ground,107,108,172,30%,10%,Pound;Zen Headbutt;</td,Disarming Voice;Moonblast;Body Slam;</td
+036,Clefable,Clefable,Fairy,Ground,178,162,216,10%,6%,Pound;Zen Headbutt;Charge Beam;Charm;</td,Dazzling Gleam;Moonblast;Psychic;Meteor Mash;</td
+037,Vulpix,Vulpix,Fire,Ground,96,109,116,30%,10%,Ember;Quick Attack;</td,Flamethrower;Flame Charge;Body Slam;Weather Ball - Fire;Frustration;</td
+037,Vulpix,Vulpix (Alolan Vulpix),Ice,Ground,96,109,116,30%,10%,Zen Headbutt;Powder Snow;</td,Dark Pulse;Ice Beam;Blizzard;Weather Ball - Ice;</td
+038,Ninetales,Ninetales,Fire,Ground,169,190,177,10%,6%,Ember;Feint Attack;Fire Spin;</td,Flamethrower;</td
+038,Ninetales,Ninetales (Alolan Ninetales),Ice,Fairy,170,193,177,10%,6%,Feint Attack;Powder Snow;Charm;</td,Ice Beam;Blizzard;Psyshock;Dazzling Gleam;Weather Ball - Ice;</td
+039,Jigglypuff,Jigglypuff,Normal,Fairy,80,41,251,50%,10%,Pound;Feint Attack;</td,Disarming Voice;Dazzling Gleam;Play Rough;Gyro Ball;</td
+040,Wigglytuff,Wigglytuff,Normal,Fairy,156,90,295,20%,6%,Pound;Feint Attack;Charm;</td,Hyper Beam;Ice Beam;Dazzling Gleam;Play Rough;</td
+041,Zubat,Zubat,Poison,Flying,83,73,120,50%,20%,Bite;Quick Attack;</td,Poison Fang;Sludge Bomb;</td
+042,Golbat,Golbat,Poison,Flying,161,150,181,20%,7%,Bite;Wing Attack;</td,Poison Fang;Ominous Wind;</td
+043,Oddish,Oddish,Grass,Poison,131,112,128,60%,15%,Razor Leaf;Acid;</td,Seed Bomb;Moonblast;Sludge Bomb;Frustration;</td
+044,Gloom,Gloom,Grass,Poison,153,136,155,30%,7%,Razor Leaf;Acid;</td,Petal Blizzard;Moonblast;Sludge Bomb;Frustration;</td
+045,Vileplume,Vileplume,Grass,Poison,202,167,181,15%,5%,Razor Leaf;Acid;</td,Petal Blizzard;Moonblast;Sludge Bomb;Solar Beam;Frustration;</td
+046,Paras,Paras,Bug,Grass,121,99,111,40%,15%,Bug Bite;Scratch;</td,Seed Bomb;Cross Poison;X-Scissor;</td
+047,Parasect,Parasect,Bug,Grass,165,146,155,20%,7%,Fury Cutter;Bug Bite;Struggle Bug;</td,Cross Poison;X-Scissor;Solar Beam;</td
+048,Venonat,Venonat,Bug,Poison,100,100,155,50%,15%,Bug Bite;Confusion;</td,Psybeam;Poison Fang;Signal Beam;Frustration;</td
+049,Venomoth,Venomoth,Bug,Poison,179,143,172,20%,7%,Bug Bite;Confusion;Infestation;</td,Bug Buzz;Poison Fang;Psychic;Silver Wind;Frustration;</td
+050,Diglett,Diglett,Ground,Poison,109,78,67,50%,10%,Scratch;Mud-Slap;</td,Dig;Rock Tomb;Mud Bomb;Frustration;</td
+050,Diglett,Diglett (Alolan Diglett),Ground,Steel,108,81,67,50%,10%,Metal Claw;Mud-Slap;</td,Dig;Rock Tomb;Mud Bomb;</td
+051,Dugtrio,Dugtrio,Ground,Steel,167,134,111,20%,6%,Sucker Punch;Mud-Slap;</td,Earthquake;Stone Edge;Mud Bomb;Frustration;</td
+051,Dugtrio,Dugtrio (Alolan Dugtrio),Ground,Steel,201,142,111,20%,6%,Metal Claw;Mud-Slap;</td,Earthquake;Iron Head;Mud Bomb;</td
+052,Meowth,Meowth,Normal,Steel,92,78,120,50%,15%,Bite;Scratch;</td,Dark Pulse;Night Slash;Body Slam;</td
+052,Meowth,Meowth (Alolan Meowth),Dark,Steel,99,78,120,50%,15%,Bite;Scratch;</td,Dark Pulse;Night Slash;Foul Play;</td
+052,Meowth,Meowth (Galarian Meowth),Steel,Steel,115,92,137,45%,10%,Scratch;Metal Claw;</td,Dig;Night Slash;Gyro Ball;</td
+053,Persian,Persian,Normal,Steel,150,136,163,20%,7%,Scratch;Feint Attack;</td,Night Slash;Payback;</td
+053,Persian,Persian (Alolan Persian),Dark,Steel,158,136,163,20%,7%,Scratch;Feint Attack;</td,Dark Pulse;Play Rough;Foul Play;Payback;</td
+054,Psyduck,Psyduck,Water,Steel,122,95,137,50%,10%,Water Gun;Zen Headbutt;</td,Cross Chop;Psybeam;Aqua Tail;Frustration;</td
+055,Golduck,Golduck,Water,Steel,191,162,190,20%,6%,Water Gun;Confusion;</td,Cross Chop;Ice Beam;Bubble Beam;Hydro Pump;Psychic;Frustration;Synchronoise;</td
+056,Mankey,Mankey,Fighting,Steel,148,82,120,50%,10%,Karate Chop;Scratch;</td,Cross Chop;Low Sweep;Brick Break;</td
+057,Primeape,Primeape,Fighting,Steel,207,138,163,20%,6%,Low Kick;Karate Chop;Counter;</td,Cross Chop;Ice Punch;Night Slash;Low Sweep;Close Combat;</td
+058,Growlithe,Growlithe,Fire,Steel,136,93,146,30%,10%,Bite;Ember;</td,Flame Wheel;Flamethrower;Body Slam;Frustration;</td
+059,Arcanine,Arcanine,Fire,Steel,227,166,207,10%,6%,Bite;Fire Fang;Snarl;Thunder Fang;</td,Flamethrower;Bulldoze;</td
+060,Poliwag,Poliwag,Water,Steel,101,82,120,50%,15%,Mud Shot;Bubble;</td,Bubble Beam;Mud Bomb;Body Slam;Frustration;</td
+061,Poliwhirl,Poliwhirl,Water,Steel,130,123,163,25%,7%,Mud Shot;Bubble;</td,Bubble Beam;Mud Bomb;Water Pulse;Scald;</td
+062,Poliwrath,Poliwrath,Water,Fighting,182,184,207,12.5%,5%,Mud Shot;Bubble;Rock Smash;</td,Ice Punch;Submission;</td
+063,Abra,Abra,Psychic,Fighting,195,82,93,50%,99%,Zen Headbutt;Charge Beam;</td,Psyshock;Shadow Ball;Signal Beam;Frustration;</td
+064,Kadabra,Kadabra,Psychic,Fighting,232,117,120,25%,7%,Psycho Cut;Confusion;</td,Psybeam;Shadow Ball;Dazzling Gleam;Frustration;</td
+065,Alakazam,Alakazam,Psychic,Fighting,271,167,146,10%,5%,Psycho Cut;Confusion;Counter;</td,Shadow Ball;Dazzling Gleam;</td
+066,Machop,Machop,Fighting,Fighting,137,82,172,50%,10%,Low Kick;Karate Chop;Rock Smash;</td,Cross Chop;Low Sweep;Brick Break;Frustration;</td
+067,Machoke,Machoke,Fighting,Fighting,177,125,190,25%,7%,Low Kick;Karate Chop;</td,Cross Chop;</td
+068,Machamp,Machamp,Fighting,Fighting,234,159,207,10%,5%,Karate Chop;Bullet Punch;Counter;</td,Cross Chop;Stone Edge;</td
+069,Bellsprout,Bellsprout,Grass,Poison,139,61,137,50%,15%,Vine Whip;Acid;</td,Wrap;Sludge Bomb;Power Whip;Frustration;</td
+070,Weepinbell,Weepinbell,Grass,Poison,172,92,163,25%,7%,Razor Leaf;Acid;Bullet Seed;</td,Seed Bomb;Sludge Bomb;Power Whip;Frustration;</td
+071,Victreebel,Victreebel,Grass,Poison,207,135,190,12.5%,5%,Razor Leaf;Acid;</td,Sludge Bomb;Solar Beam;Leaf Blade;Acid Spray;Leaf Tornado;Frustration;</td
+072,Tentacool,Tentacool,Water,Poison,97,149,120,50%,15%,Poison Sting;Bubble;</td,Wrap;Bubble Beam;Water Pulse;</td
+073,Tentacruel,Tentacruel,Water,Poison,166,209,190,20%,7%,Poison Jab;Acid;</td,Blizzard;Sludge Wave;Hydro Pump;Acid Spray;</td
+074,Geodude,Geodude,Rock,Ground,132,132,120,50%,10%,Tackle;Rock Throw;</td,Dig;Rock Tomb;Rock Slide;Frustration;</td
+074,Geodude,Geodude (Alolan Geodude),Rock,Electric,132,132,120,50%,10%,Rock Throw;Volt Switch;</td,Rock Tomb;Rock Slide;Thunderbolt;</td
+075,Graveler,Graveler,Rock,Ground,164,164,146,25%,7%,Rock Throw;Mud-Slap;</td,Dig;Stone Edge;Rock Slide;</td
+075,Graveler,Graveler (Alolan Graveler),Rock,Electric,164,164,146,25%,7%,Rock Throw;Volt Switch;</td,Stone Edge;Thunderbolt;Rock Blast;</td
+076,Golem,Golem,Rock,Ground,211,198,190,12.5%,5%,Rock Throw;Mud-Slap;</td,Earthquake;Stone Edge;Ancient Power;Rock Blast;Frustration;</td
+076,Golem,Golem (Alolan Golem),Rock,Electric,211,198,190,12.5%,5%,Rock Throw;Volt Switch;</td,Stone Edge;Wild Charge;Rock Blast;</td
+077,Ponyta,Ponyta,Fire,Electric,170,127,137,40%,10%,Ember;Tackle;</td,Flame Wheel;Flame Charge;Fire Blast;</td
+077,Ponyta,Ponyta (Galarian Ponyta),Psychic,Electric,170,127,137,40%,10%,Low Kick;Psycho Cut;</td,Psybeam;Play Rough;Swift;</td
+078,Rapidash,Rapidash,Fire,Electric,207,162,163,15%,6%,Low Kick;Ember;Fire Spin;Incinerate;</td,Heat Wave;Drill Run;Flame Charge;Fire Blast;Frustration;</td
+078,Rapidash,Rapidash (Galarian Rapidash),Psychic,Fairy,207,162,163,20%,6%,Low Kick;Psycho Cut;</td,Megahorn;Play Rough;Psychic;Body Slam;</td
+079,Slowpoke,Slowpoke,Water,Psychic,109,98,207,50%,10%,Water Gun;Confusion;</td,Psyshock;Water Pulse;Psychic;Frustration;</td
+079,Slowpoke,Slowpoke (Galarian Slowpoke),Psychic,Psychic,109,98,207,50%,10%,Confusion;Iron Tail;</td,Psyshock;Psychic;Surf;</td
+080,Slowbro,Slowbro,Water,Psychic,177,180,216,20%,6%,Water Gun;Confusion;</td,Ice Beam;Water Pulse;Psychic;Frustration;</td
+080,Slowbro,Slowbro (Galarian Slowbro),Poison,Psychic,182,156,216,20%,6%,Poison Jab;Confusion;</td,Sludge Bomb;Psychic;Focus Blast;</td
+081,Magnemite,Magnemite,Electric,Steel,165,121,93,50%,10%,Thunder Shock;Spark;</td,Discharge;Magnet Bomb;Thunderbolt;Frustration;</td
+082,Magneton,Magneton,Electric,Steel,223,169,137,20%,6%,Thunder Shock;Spark;Charge Beam;</td,Discharge;Flash Cannon;Magnet Bomb;Zap Cannon;Frustration;</td
+083,Farfetch'd,Farfetch'd,Normal,Flying,124,115,141,30%,9%,Fury Cutter;Cut;Air Slash;</td,Aerial Ace;Leaf Blade;Air Cutter;Frustration;</td
+083,Farfetch'd,Farfetch'd (Galarian Farfetch'd),Fighting,Flying,174,114,141,30%,9%,Fury Cutter;Rock Smash;</td,Leaf Blade;Brick Break;Brave Bird;</td
+084,Doduo,Doduo,Normal,Flying,158,83,111,50%,10%,Peck;Quick Attack;</td,Drill Peck;Aerial Ace;Swift;Brave Bird;</td
+085,Dodrio,Dodrio,Normal,Flying,218,140,155,20%,6%,Feint Attack;Steel Wing;</td,Drill Peck;Aerial Ace;Air Cutter;Brave Bird;</td
+086,Seel,Seel,Water,Flying,85,121,163,50%,9%,Lick;Ice Shard;Water Gun;</td,Aqua Jet;Aqua Tail;Icy Wind;Aurora Beam;</td
+087,Dewgong,Dewgong,Water,Ice,139,177,207,20%,6%,Ice Shard;Frost Breath;Iron Tail;</td,Blizzard;Aqua Jet;Aurora Beam;</td
+088,Grimer,Grimer,Poison,Ice,135,90,190,50%,10%,Poison Jab;Mud-Slap;</td,Sludge;Sludge Bomb;Mud Bomb;Frustration;</td
+088,Grimer,Grimer (Alolan Grimer),Poison,Dark,135,90,190,50%,10%,Bite;Poison Jab;</td,Sludge Bomb;Gunk Shot;Crunch;</td
+089,Muk,Muk,Poison,Dark,190,172,233,20%,6%,Lick;Poison Jab;Infestation;</td,Dark Pulse;Thunder Punch;Sludge Wave;Gunk Shot;Acid Spray;Frustration;</td
+089,Muk,Muk (Alolan Muk),Poison,Dark,190,172,233,20%,6%,Bite;Poison Jab;Snarl;</td,Dark Pulse;Sludge Wave;Gunk Shot;Acid Spray;</td
+090,Shellder,Shellder,Water,Dark,116,134,102,50%,10%,Ice Shard;Tackle;</td,Bubble Beam;Water Pulse;Icy Wind;Frustration;</td
+091,Cloyster,Cloyster,Water,Ice,186,256,137,20%,6%,Ice Shard;Frost Breath;</td,Blizzard;</td
+092,Gastly,Gastly,Ghost,Poison,186,67,102,40%,10%,Sucker Punch;Lick;Astonish;</td,Dark Pulse;Ominous Wind;Sludge Bomb;Night Shade;</td
+093,Haunter,Haunter,Ghost,Poison,223,107,128,20%,7%,Lick;Shadow Claw;Astonish;</td,Dark Pulse;Shadow Punch;Shadow Ball;Sludge Bomb;</td
+094,Gengar,Gengar,Ghost,Poison,261,149,155,10%,5%,Sucker Punch;Lick;Shadow Claw;Hex;</td,Dark Pulse;Focus Blast;</td
+095,Onix,Onix,Rock,Ground,85,232,111,20%,9%,Tackle;Rock Throw;</td,Stone Edge;Rock Slide;</td
+096,Drowzee,Drowzee,Psychic,Ground,89,136,155,50%,10%,Pound;Confusion;</td,Psybeam;Psyshock;Psychic;Frustration;</td
+097,Hypno,Hypno,Psychic,Ground,144,193,198,20%,6%,Zen Headbutt;Confusion;</td,Ice Punch;Psyshock;</td
+098,Krabby,Krabby,Water,Ground,181,124,102,50%,15%,Mud Shot;Bubble;</td,Vise Grip;Bubble Beam;Water Pulse;Frustration;</td
+099,Kingler,Kingler,Water,Ground,240,181,146,20%,7%,Mud Shot;Metal Claw;Bubble;</td,Vise Grip;X-Scissor;Water Pulse;Crabhammer;Frustration;</td
+100,Voltorb,Voltorb,Electric,Ground,109,111,120,50%,10%,Spark;Tackle;</td,Discharge;Thunderbolt;Signal Beam;Gyro Ball;</td
+101,Electrode,Electrode,Electric,Ground,173,173,155,20%,6%,Spark;Tackle;Volt Switch;</td,Hyper Beam;Discharge;Thunderbolt;Foul Play;</td
+102,Exeggcute,Exeggcute,Grass,Psychic,107,125,155,50%,10%,Confusion;Bullet Seed;</td,Seed Bomb;Ancient Power;Psychic;Frustration;</td
+103,Exeggutor,Exeggutor,Grass,Psychic,233,149,216,20%,6%,Zen Headbutt;Confusion;Bullet Seed;Extrasensory;</td,Seed Bomb;Psychic;Solar Beam;Frustration;</td
+103,Exeggutor,Exeggutor (Alolan Exeggutor),Grass,Dragon,230,153,216,20%,6%,Dragon Tail;Bullet Seed;</td,Seed Bomb;Dragon Pulse;Solar Beam;</td
+104,Cubone,Cubone,Ground,Dragon,90,144,137,40%,10%,Mud-Slap;Rock Smash;</td,Dig;Bone Club;Bulldoze;Frustration;</td
+105,Marowak,Marowak,Ground,Dragon,144,186,155,15%,6%,Mud-Slap;Rock Smash;</td,Dig;Earthquake;Bone Club;Frustration;</td
+105,Marowak,Marowak (Alolan Marowak),Fire,Ghost,144,186,155,15%,6%,Rock Smash;Hex;Fire Spin;</td,Flame Wheel;Shadow Ball;Bone Club;Fire Blast;Shadow Bone;</td
+106,Hitmonlee,Hitmonlee,Fighting,Ghost,224,181,137,20%,9%,Low Kick;Rock Smash;</td,Stone Edge;Low Sweep;Brick Break;</td
+107,Hitmonchan,Hitmonchan,Fighting,Ghost,193,197,137,20%,9%,Bullet Punch;Rock Smash;Counter;</td,Ice Punch;Thunder Punch;Fire Punch;Brick Break;</td
+108,Lickitung,Lickitung,Normal,Ghost,108,137,207,20%,9%,Lick;Zen Headbutt;</td,Hyper Beam;Power Whip;Stomp;Body Slam;</td
+109,Koffing,Koffing,Poison,Ghost,119,141,120,50%,10%,Tackle;Infestation;</td,Dark Pulse;Sludge;Sludge Bomb;Frustration;</td
+110,Weezing,Weezing,Poison,Ghost,174,197,163,20%,6%,Tackle;Infestation;</td,Dark Pulse;Shadow Ball;Thunderbolt;Sludge Bomb;Frustration;</td
+110,Weezing,Weezing (Galarian Weezing),Poison,Fairy,174,197,163,20%,6%,Tackle;</td,Hyper Beam;Sludge;Play Rough;Overheat;</td
+111,Rhyhorn,Rhyhorn,Ground,Rock,140,127,190,50%,10%,Mud-Slap;Rock Smash;</td,Bulldoze;Horn Attack;Stomp;Frustration;</td
+112,Rhydon,Rhydon,Ground,Rock,222,171,233,5%,6%,Mud-Slap;Rock Smash;</td,Megahorn;</td
+113,Chansey,Chansey,Normal,Rock,60,128,487,20%,9%,Pound;Zen Headbutt;</td,Hyper Beam;Dazzling Gleam;Psychic;</td
+114,Tangela,Tangela,Grass,Rock,183,169,163,40%,9%,Vine Whip;Infestation;</td,Sludge Bomb;Solar Beam;Power Whip;Grass Knot;</td
+115,Kangaskhan,Kangaskhan,Normal,Rock,181,165,233,20%,9%,Low Kick;Mud-Slap;</td,Earthquake;Brick Break;</td
+116,Horsea,Horsea,Water,Rock,129,103,102,50%,10%,Water Gun;Bubble;</td,Flash Cannon;Bubble Beam;Dragon Pulse;</td
+117,Seadra,Seadra,Water,Rock,187,156,146,20%,6%,Dragon Breath;Water Gun;</td,Blizzard;Dragon Pulse;Hydro Pump;Aurora Beam;</td
+118,Goldeen,Goldeen,Water,Rock,123,110,128,50%,15%,Peck;Mud Shot;</td,Aqua Tail;Water Pulse;Horn Attack;</td
+119,Seaking,Seaking,Water,Rock,175,147,190,20%,7%,Peck;Poison Jab;Waterfall;</td,Megahorn;Ice Beam;Drill Run;</td
+120,Staryu,Staryu,Water,Rock,137,112,102,50%,15%,Tackle;Water Gun;</td,Bubble Beam;Power Gem;Swift;</td
+121,Starmie,Starmie,Water,Psychic,210,184,155,20%,6%,Tackle;Water Gun;Hidden Power;</td,Ice Beam;Power Gem;Thunder;Hydro Pump;Psychic;</td
+122,Mr. Mime,Mr. Mime,Psychic,Fairy,192,205,120,30%,9%,Zen Headbutt;Confusion;</td,Psybeam;Shadow Ball;Psychic;Frustration;</td
+122,Mr. Mime,Mr. Mime (Galarian Mr. Mime),Ice,Psychic,183,169,137,30%,9%,Zen Headbutt;Confusion;</td,Psybeam;Ice Punch;Psychic;</td
+123,Scyther,Scyther,Bug,Flying,218,170,172,30%,9%,Fury Cutter;Steel Wing;Air Slash;</td,Aerial Ace;Bug Buzz;</td
+124,Jynx,Jynx,Ice,Psychic,223,151,163,30%,9%,Frost Breath;Pound;Confusion;</td,Ice Punch;Psyshock;Draining Kiss;Focus Blast;Avalanche;</td
+125,Electabuzz,Electabuzz,Electric,Psychic,198,158,163,20%,9%,Thunder Shock;Low Kick;</td,Thunder Punch;Thunder;Thunderbolt;Frustration;</td
+126,Magmar,Magmar,Fire,Psychic,206,154,163,20%,9%,Karate Chop;Ember;</td,Flamethrower;Fire Blast;Fire Punch;Frustration;</td
+127,Pinsir,Pinsir,Bug,Psychic,238,182,163,30%,9%,Fury Cutter;Bug Bite;Rock Smash;</td,Vise Grip;Submission;</td
+128,Tauros,Tauros,Normal,Psychic,198,183,181,30%,9%,Tackle;Zen Headbutt;</td,Earthquake;Iron Head;Horn Attack;</td
+129,Magikarp,Magikarp,Water,Psychic,29,85,85,70%,15%,Splash;</td,Struggle;Frustration;</td
+130,Gyarados,Gyarados,Water,Flying,237,186,216,10%,7%,Bite;Dragon Breath;Dragon Tail;Waterfall;</td,Aqua Tail;</td
+131,Lapras,Lapras,Water,Ice,165,174,277,5%,9%,Ice Shard;Frost Breath;Water Gun;</td,Ice Beam;</td
+132,Ditto,Ditto,Normal,Ice,91,91,134,20%,10%,Transform;</td,Struggle;</td
+133,Eevee,Eevee,Normal,Ice,104,114,146,40%,10%,Quick Attack;Tackle;</td,Dig;Swift;Body Slam;</td
+134,Vaporeon,Vaporeon,Water,Ice,205,161,277,12.5%,6%,Water Gun;</td,Aqua Tail;Water Pulse;Scald;</td
+135,Jolteon,Jolteon,Electric,Ice,232,182,163,12.5%,6%,Thunder Shock;Volt Switch;</td,Discharge;Thunder;Thunderbolt;Zap Cannon;</td
+136,Flareon,Flareon,Fire,Ice,246,179,163,12.5%,6%,Ember;Fire Spin;</td,Flamethrower;Heat Wave;</td
+137,Porygon,Porygon,Normal,Ice,153,136,163,40%,9%,Tackle;Charge Beam;Hidden Power;</td,Hyper Beam;Psybeam;</td
+138,Omanyte,Omanyte,Rock,Water,155,153,111,40%,9%,Mud Shot;Water Gun;</td,Bubble Beam;Ancient Power;Rock Tomb;</td
+139,Omastar,Omastar,Rock,Water,207,201,172,15%,5%,Mud Shot;Rock Throw;Water Gun;</td,Ancient Power;Rock Slide;</td
+140,Kabuto,Kabuto,Rock,Water,148,140,102,40%,9%,Mud Shot;Scratch;</td,Aqua Jet;Ancient Power;Rock Tomb;Frustration;</td
+141,Kabutops,Kabutops,Rock,Water,220,186,155,15%,5%,Fury Cutter;Mud Shot;Rock Smash;Waterfall;</td,Stone Edge;Ancient Power;Water Pulse;Frustration;</td
+142,Aerodactyl,Aerodactyl,Rock,Flying,221,159,190,20%,9%,Bite;Rock Throw;Steel Wing;</td,Hyper Beam;Ancient Power;Rock Slide;Iron Head;Earth Power;Frustration;</td
+143,Snorlax,Snorlax,Normal,Flying,190,169,330,5%,9%,Lick;Zen Headbutt;Yawn;</td,Hyper Beam;Earthquake;Body Slam;Heavy Slam;Outrage;Skull Bash;Superpower;Frustration;</td
+144,Articuno,Articuno,Ice,Flying,192,236,207,3%,10%,Ice Shard;Frost Breath;</td,Ice Beam;Blizzard;Ancient Power;Icy Wind;Hurricane;</td
+145,Zapdos,Zapdos,Electric,Flying,253,185,207,3%,10%,Thunder Shock;Charge Beam;</td,Drill Peck;Ancient Power;Thunder;Thunderbolt;Zap Cannon;Frustration;</td
+146,Moltres,Moltres,Fire,Flying,251,181,207,3%,10%,Wing Attack;Fire Spin;</td,Heat Wave;Ancient Power;Fire Blast;Sky Attack;</td
+147,Dratini,Dratini,Dragon,Flying,119,91,121,40%,9%,Dragon Breath;Iron Tail;</td,Wrap;Aqua Tail;Twister;Frustration;</td
+148,Dragonair,Dragonair,Dragon,Flying,163,135,156,10%,6%,Dragon Breath;Iron Tail;</td,Wrap;Aqua Tail;Dragon Pulse;Frustration;</td
+149,Dragonite,Dragonite,Dragon,Flying,263,198,209,5%,5%,Dragon Breath;Steel Wing;Dragon Tail;</td,Hyper Beam;Dragon Pulse;</td
+150,Mewtwo,Mewtwo,Psychic,Flying,300,182,214,6%,10%,Psycho Cut;Confusion;</td,Hyper Beam;</td
+150,Mewtwo,Mewtwo (Armored Mewtwo),Psychic,Flying,182,278,214,6%,0%,Confusion;Iron Tail;</td,Earthquake;Rock Slide;Psystrike;Dynamic Punch;Future Sight;</td
+151,Mew,Mew,Psychic,Flying,210,210,225,100%,0%,Shadow Claw;Frost Breath;Pound;Cut;Poison Jab;Steel Wing;Rock Smash;Charge Beam;Volt Switch;Dragon Tail;Infestation;Struggle Bug;Snarl;Waterfall;</td,Hyper Beam;Dark Pulse;Stone Edge;Flash Cannon;Ice Beam;Blizzard;Low Sweep;Psyshock;Ancient Power;Rock Slide;Thunder;Thunderbolt;Dragon Claw;Dazzling Gleam;Bulldoze;Flame Charge;Psychic;Solar Beam;Focus Blast;Wild Charge;Gyro Ball;Overheat;Grass Knot;Energy Ball;Surf;</td
+152,Chikorita,Chikorita,Grass,Flying,92,122,128,20%,10%,Vine Whip;Tackle;</td,Body Slam;Grass Knot;Energy Ball;</td
+153,Bayleef,Bayleef,Grass,Flying,122,155,155,12.5%,7%,Razor Leaf;Tackle;</td,Ancient Power;Grass Knot;Energy Ball;</td
+154,Meganium,Meganium,Grass,Flying,168,202,190,5%,5%,Vine Whip;Razor Leaf;</td,Earthquake;Petal Blizzard;Solar Beam;Frenzy Plant;</td
+155,Cyndaquil,Cyndaquil,Fire,Flying,116,93,118,20%,10%,Ember;Tackle;</td,Flamethrower;Flame Charge;Swift;</td
+156,Quilava,Quilava,Fire,Flying,158,126,151,12.5%,7%,Ember;Tackle;</td,Flamethrower;Dig;Flame Charge;</td
+157,Typhlosion,Typhlosion,Fire,Flying,223,173,186,5%,5%,Ember;Shadow Claw;Incinerate;</td,Fire Blast;Solar Beam;Overheat;Blast Burn;</td
+158,Totodile,Totodile,Water,Flying,117,109,137,20%,10%,Scratch;Water Gun;</td,Aqua Jet;Water Pulse;Crunch;</td
+159,Croconaw,Croconaw,Water,Flying,150,142,163,12.5%,7%,Scratch;Water Gun;</td,Ice Punch;Water Pulse;Crunch;</td
+160,Feraligatr,Feraligatr,Water,Flying,205,188,198,5%,5%,Bite;Water Gun;Waterfall;Ice Fang;</td,Ice Beam;Hydro Pump;Crunch;Hydro Cannon;</td
+161,Sentret,Sentret,Normal,Flying,79,73,111,50%,20%,Quick Attack;Scratch;</td,Dig;Brick Break;Grass Knot;</td
+162,Furret,Furret,Normal,Flying,148,125,198,15%,7%,Sucker Punch;Quick Attack;</td,Hyper Beam;Dig;Brick Break;</td
+163,Hoothoot,Hoothoot,Normal,Flying,67,88,155,50%,15%,Peck;Feint Attack;</td,Aerial Ace;Sky Attack;Night Shade;</td
+164,Noctowl,Noctowl,Normal,Flying,145,156,225,15%,7%,Wing Attack;Extrasensory;</td,Psychic;Sky Attack;Night Shade;</td
+165,Ledyba,Ledyba,Bug,Flying,72,118,120,50%,20%,Bug Bite;Tackle;</td,Aerial Ace;Swift;Silver Wind;</td
+166,Ledian,Ledian,Bug,Flying,107,179,146,15%,7%,Bug Bite;Struggle Bug;</td,Aerial Ace;Bug Buzz;Silver Wind;</td
+167,Spinarak,Spinarak,Bug,Poison,105,73,120,50%,20%,Bug Bite;Poison Sting;</td,Night Slash;Cross Poison;Signal Beam;</td
+168,Ariados,Ariados,Bug,Poison,161,124,172,15%,7%,Poison Sting;Infestation;</td,Megahorn;Shadow Sneak;Cross Poison;Lunge;</td
+169,Crobat,Crobat,Poison,Flying,194,178,198,10%,5%,Bite;Air Slash;</td,Poison Fang;Shadow Ball;Cross Poison;Sludge Bomb;Air Cutter;Frustration;</td
+170,Chinchou,Chinchou,Water,Electric,106,97,181,40%,10%,Spark;Bubble;</td,Bubble Beam;Thunderbolt;Water Pulse;</td
+171,Lanturn,Lanturn,Water,Electric,146,137,268,15%,7%,Spark;Water Gun;Charge Beam;</td,Thunder;Thunderbolt;Hydro Pump;</td
+172,Pichu,Pichu,Electric,Electric,77,53,85,—,5%,Thunder Shock;</td,Thunder Punch;Thunderbolt;Disarming Voice;</td
+173,Cleffa,Cleffa,Fairy,Electric,75,79,137,—,5%,Pound;Zen Headbutt;</td,Psyshock;Signal Beam;Psychic;Grass Knot;</td
+174,Igglybuff,Igglybuff,Normal,Fairy,69,32,207,—,5%,Pound;Feint Attack;</td,Shadow Ball;Psychic;Body Slam;Wild Charge;</td
+175,Togepi,Togepi,Fairy,Fairy,67,116,111,—,5%,Peck;Zen Headbutt;Hidden Power;</td,Psyshock;Ancient Power;Dazzling Gleam;</td
+176,Togetic,Togetic,Fairy,Flying,139,181,146,20%,5%,Zen Headbutt;Extrasensory;Hidden Power;</td,Aerial Ace;Ancient Power;Dazzling Gleam;</td
+177,Natu,Natu,Psychic,Flying,134,89,120,40%,15%,Peck;Quick Attack;</td,Drill Peck;Psyshock;Night Shade;</td
+178,Xatu,Xatu,Psychic,Flying,192,146,163,15%,7%,Feint Attack;Air Slash;</td,Aerial Ace;Ominous Wind;Future Sight;</td
+179,Mareep,Mareep,Electric,Flying,114,79,146,50%,10%,Thunder Shock;Tackle;</td,Discharge;Thunderbolt;Body Slam;Frustration;</td
+180,Flaaffy,Flaaffy,Electric,Flying,145,109,172,25%,7%,Tackle;Charge Beam;</td,Discharge;Power Gem;Thunderbolt;Frustration;</td
+181,Ampharos,Ampharos,Electric,Flying,211,169,207,12.5%,5%,Charge Beam;Volt Switch;</td,Power Gem;Thunder Punch;Thunder;Dragon Pulse;</td
+182,Bellossom,Bellossom,Grass,Flying,169,186,181,5%,5%,Razor Leaf;Acid;Bullet Seed;</td,Petal Blizzard;Dazzling Gleam;Leaf Blade;Frustration;</td
+183,Marill,Marill,Water,Fairy,37,93,172,50%,10%,Tackle;Bubble;</td,Bubble Beam;Aqua Tail;Body Slam;</td
+184,Azumarill,Azumarill,Water,Fairy,112,152,225,15%,7%,Bubble;Rock Smash;</td,Ice Beam;Play Rough;Hydro Pump;</td
+185,Sudowoodo,Sudowoodo,Rock,Fairy,167,176,172,12.5%,5%,Rock Throw;Counter;</td,Earthquake;Stone Edge;Rock Slide;</td
+186,Politoed,Politoed,Water,Fairy,174,179,207,10%,5%,Mud Shot;Bubble;</td,Earthquake;</td
+187,Hoppip,Hoppip,Grass,Flying,67,94,111,50%,12%,Tackle;Bullet Seed;</td,Seed Bomb;Dazzling Gleam;Grass Knot;Frustration;</td
+188,Skiploom,Skiploom,Grass,Flying,91,120,146,25%,7%,Tackle;Bullet Seed;</td,Dazzling Gleam;Grass Knot;Energy Ball;Frustration;</td
+189,Jumpluff,Jumpluff,Grass,Flying,118,183,181,12.5%,5%,Infestation;Bullet Seed;</td,Aerial Ace;Dazzling Gleam;Solar Beam;Energy Ball;Frustration;</td
+190,Aipom,Aipom,Normal,Flying,136,112,146,20%,9%,Scratch;Astonish;</td,Aerial Ace;Low Sweep;Swift;Frustration;</td
+191,Sunkern,Sunkern,Grass,Flying,55,55,102,50%,9%,Razor Leaf;Cut;</td,Seed Bomb;Grass Knot;Energy Ball;</td
+192,Sunflora,Sunflora,Grass,Flying,185,135,181,10%,7%,Razor Leaf;Bullet Seed;</td,Petal Blizzard;Sludge Bomb;Solar Beam;Leaf Storm;</td
+193,Yanma,Yanma,Bug,Flying,154,94,163,30%,10%,Wing Attack;Quick Attack;</td,Aerial Ace;Ancient Power;Silver Wind;</td
+194,Wooper,Wooper,Water,Ground,75,66,146,40%,10%,Mud Shot;Water Gun;</td,Dig;Mud Bomb;Body Slam;Frustration;</td
+195,Quagsire,Quagsire,Water,Ground,152,143,216,15%,7%,Mud Shot;Water Gun;</td,Earthquake;Stone Edge;Sludge Bomb;Acid Spray;Frustration;</td
+196,Espeon,Espeon,Psychic,Ground,261,175,163,12.5%,5%,Zen Headbutt;Confusion;</td,Psybeam;Shadow Ball;</td
+197,Umbreon,Umbreon,Dark,Ground,126,240,216,12.5%,5%,Feint Attack;Snarl;</td,Dark Pulse;Psychic;</td
+198,Murkrow,Murkrow,Dark,Flying,175,87,155,20%,10%,Peck;Feint Attack;</td,Dark Pulse;Drill Peck;Foul Play;Frustration;</td
+199,Slowking,Slowking,Water,Psychic,177,180,216,10%,5%,Water Gun;Confusion;</td,Blizzard;Fire Blast;Psychic;Frustration;</td
+199,Slowking,Slowking (Galarian Slowking),Poison,Psychic,190,180,216,10%,5%,Acid;Confusion;Hex;</td,Shadow Ball;Sludge Wave;Future Sight;</td
+200,Misdreavus,Misdreavus,Ghost,Psychic,167,154,155,30%,7%,Astonish;Hex;</td,Dark Pulse;Shadow Sneak;Ominous Wind;Frustration;</td
+201,Unown,Unown,Psychic,Psychic,136,91,134,30%,10%,Hidden Power;</td,Struggle;</td
+202,Wobbuffet,Wobbuffet,Psychic,Psychic,60,106,382,25%,7%,Splash;Counter;Charm;</td,Mirror Coat;Frustration;</td
+203,Girafarig,Girafarig,Normal,Psychic,182,133,172,30%,7%,Tackle;Confusion;</td,Thunderbolt;Psychic;Mirror Coat;</td
+204,Pineco,Pineco,Bug,Psychic,108,122,137,40%,12%,Bug Bite;Tackle;</td,Rock Tomb;Sand Tomb;Gyro Ball;Frustration;</td
+205,Forretress,Forretress,Bug,Steel,161,205,181,15%,7%,Bug Bite;Struggle Bug;</td,Earthquake;Rock Tomb;Sand Tomb;Heavy Slam;Mirror Shot;Frustration;</td
+206,Dunsparce,Dunsparce,Normal,Steel,131,128,225,30%,20%,Bite;Astonish;</td,Dig;Drill Run;Rock Slide;</td
+207,Gligar,Gligar,Ground,Flying,143,184,163,20%,7%,Fury Cutter;Wing Attack;</td,Dig;Aerial Ace;Night Slash;Frustration;</td
+208,Steelix,Steelix,Steel,Ground,148,272,181,10%,5%,Dragon Tail;Iron Tail;Thunder Fang;</td,Earthquake;Heavy Slam;Crunch;Frustration;</td
+209,Snubbull,Snubbull,Fairy,Ground,137,85,155,40%,10%,Bite;Tackle;</td,Dazzling Gleam;Brick Break;Crunch;</td
+210,Granbull,Granbull,Fairy,Ground,212,131,207,15%,8%,Bite;Snarl;Charm;</td,Play Rough;Close Combat;Crunch;</td
+211,Qwilfish,Qwilfish,Water,Poison,184,138,163,30%,8%,Water Gun;Poison Sting;</td,Ice Beam;Aqua Tail;Sludge Wave;Acid Spray;Fell Stinger;</td
+212,Scizor,Scizor,Bug,Steel,236,181,172,5%,5%,Fury Cutter;Bullet Punch;</td,Night Slash;Iron Head;X-Scissor;Frustration;</td
+213,Shuckle,Shuckle,Bug,Rock,17,396,85,30%,7%,Rock Throw;Struggle Bug;</td,Stone Edge;Rock Blast;Gyro Ball;Frustration;</td
+214,Heracross,Heracross,Bug,Fighting,234,179,190,30%,9%,Counter;Struggle Bug;</td,Megahorn;Earthquake;Close Combat;Rock Blast;</td
+215,Sneasel,Sneasel,Dark,Ice,189,146,146,20%,7%,Ice Shard;Feint Attack;</td,Ice Punch;Avalanche;Foul Play;Frustration;</td
+216,Teddiursa,Teddiursa,Normal,Ice,142,93,155,50%,20%,Lick;Scratch;</td,Cross Chop;Play Rough;Crunch;Frustration;</td
+217,Ursaring,Ursaring,Normal,Ice,236,144,207,15%,7%,Shadow Claw;Metal Claw;Counter;</td,Hyper Beam;Play Rough;Close Combat;Frustration;</td
+218,Slugma,Slugma,Fire,Ice,118,71,120,30%,10%,Ember;Rock Throw;</td,Rock Slide;Flame Charge;Flame Burst;</td
+219,Magcargo,Magcargo,Fire,Rock,139,191,137,12.5%,6%,Ember;Rock Throw;</td,Stone Edge;Heat Wave;Overheat;</td
+220,Swinub,Swinub,Ice,Ground,90,69,137,30%,10%,Tackle;Powder Snow;</td,Rock Slide;Icy Wind;Body Slam;Frustration;</td
+221,Piloswine,Piloswine,Ice,Ground,181,138,225,12.5%,6%,Ice Shard;Powder Snow;</td,Stone Edge;Bulldoze;Avalanche;Frustration;</td
+222,Corsola,Corsola,Water,Rock,118,156,146,30%,12%,Tackle;Bubble;</td,Bubble Beam;Power Gem;Rock Blast;</td
+223,Remoraid,Remoraid,Water,Rock,127,69,111,50%,10%,Mud Shot;Water Gun;</td,Water Pulse;Aurora Beam;Rock Blast;</td
+224,Octillery,Octillery,Water,Rock,197,141,181,15%,7%,Mud Shot;Water Gun;</td,Gunk Shot;Water Pulse;Aurora Beam;Acid Spray;Octazooka;</td
+225,Delibird,Delibird,Ice,Flying,128,90,128,20%,20%,Present;</td,Ice Punch;Aerial Ace;Icy Wind;Frustration;</td
+226,Mantine,Mantine,Water,Flying,148,226,163,30%,7%,Wing Attack;Bubble;Bullet Seed;</td,Ice Beam;Aerial Ace;Bubble Beam;Water Pulse;</td
+227,Skarmory,Skarmory,Steel,Flying,148,226,163,20%,9%,Steel Wing;Air Slash;</td,Flash Cannon;Brave Bird;Sky Attack;Frustration;</td
+228,Houndour,Houndour,Dark,Fire,152,83,128,40%,10%,Ember;Feint Attack;</td,Dark Pulse;Flamethrower;Crunch;Frustration;</td
+229,Houndoom,Houndoom,Dark,Fire,224,144,181,15%,6%,Fire Fang;Snarl;</td,Flamethrower;Fire Blast;Crunch;Foul Play;Frustration;</td
+230,Kingdra,Kingdra,Water,Dragon,194,194,181,10%,5%,Dragon Breath;Water Gun;Waterfall;</td,Blizzard;Hydro Pump;Outrage;Octazooka;</td
+231,Phanpy,Phanpy,Ground,Dragon,107,98,207,50%,20%,Tackle;Rock Smash;</td,Rock Slide;Bulldoze;Body Slam;</td
+232,Donphan,Donphan,Ground,Dragon,214,185,207,12.5%,7%,Tackle;Mud-Slap;Counter;Charm;</td,Earthquake;Play Rough;Heavy Slam;</td
+233,Porygon2,Porygon2,Normal,Dragon,198,180,198,5%,5%,Charge Beam;Hidden Power;Lock-On;</td,Hyper Beam;Solar Beam;Zap Cannon;Frustration;Tri Attack;</td
+234,Stantler,Stantler,Normal,Dragon,192,131,177,30%,8%,Tackle;Zen Headbutt;</td,Megahorn;Stomp;Wild Charge;Frustration;</td
+235,Smeargle,Smeargle,Normal,Dragon,40,83,146,25%,7%,</td,</td
+236,Tyrogue,Tyrogue,Fighting,Dragon,64,64,111,—,20%,Tackle;Rock Smash;</td,Low Sweep;Rock Slide;Brick Break;</td
+237,Hitmontop,Hitmontop,Fighting,Dragon,173,207,137,10%,5%,Rock Smash;Counter;</td,Stone Edge;Close Combat;Gyro Ball;</td
+238,Smoochum,Smoochum,Ice,Psychic,153,91,128,25%,20%,Frost Breath;Pound;Powder Snow;</td,Ice Punch;Ice Beam;Psyshock;</td
+239,Elekid,Elekid,Electric,Psychic,135,101,128,—,20%,Thunder Shock;Low Kick;</td,Discharge;Thunder Punch;Thunderbolt;Brick Break;</td
+240,Magby,Magby,Fire,Psychic,151,99,128,—,20%,Karate Chop;Ember;</td,Flamethrower;Flame Burst;Fire Punch;Brick Break;</td
+241,Miltank,Miltank,Normal,Psychic,157,193,216,20%,8%,Tackle;Zen Headbutt;</td,Ice Beam;Thunderbolt;Stomp;Body Slam;Gyro Ball;</td
+242,Blissey,Blissey,Normal,Psychic,129,169,496,5%,5%,Pound;Zen Headbutt;</td,Hyper Beam;Dazzling Gleam;Psychic;</td
+243,Raikou,Raikou,Electric,Psychic,241,195,207,2%,4%,Thunder Shock;Volt Switch;</td,Shadow Ball;Thunder;Thunderbolt;Wild Charge;Frustration;</td
+244,Entei,Entei,Fire,Psychic,235,171,251,2%,4%,Fire Fang;Fire Spin;</td,Flamethrower;Iron Head;Flame Charge;Fire Blast;Overheat;Frustration;</td
+245,Suicune,Suicune,Water,Psychic,180,235,225,2%,4%,Extrasensory;Snarl;Hidden Power;Ice Fang;</td,Ice Beam;Bubble Beam;Water Pulse;Hydro Pump;Frustration;</td
+246,Larvitar,Larvitar,Rock,Ground,115,93,137,40%,10%,Bite;Rock Smash;</td,Ancient Power;Stomp;Crunch;Frustration;</td
+247,Pupitar,Pupitar,Rock,Ground,155,133,172,10%,7%,Bite;Rock Smash;</td,Dig;Ancient Power;Crunch;Frustration;</td
+248,Tyranitar,Tyranitar,Rock,Dark,251,207,225,5%,4%,Bite;Iron Tail;Smack Down;</td,Stone Edge;Fire Blast;Crunch;Frustration;</td
+249,Lugia,Lugia,Psychic,Flying,193,310,235,2%,4%,Dragon Tail;Extrasensory;</td,Hydro Pump;Sky Attack;Future Sight;Aeroblast;</td
+250,Ho-oh,Ho-oh,Fire,Flying,239,244,214,2%,4%,Steel Wing;Extrasensory;Hidden Power;Incinerate;</td,Earthquake;Fire Blast;Solar Beam;Brave Bird;</td
+251,Celebi,Celebi,Psychic,Grass,210,210,225,100%,0%,Confusion;Charge Beam;</td,Hyper Beam;Seed Bomb;Dazzling Gleam;Psychic;Leaf Storm;</td
+252,Treecko,Treecko,Grass,Grass,124,94,120,20%,10%,Pound;Bullet Seed;</td,Aerial Ace;Grass Knot;Energy Ball;</td
+253,Grovyle,Grovyle,Grass,Grass,172,120,137,10%,7%,Quick Attack;Bullet Seed;</td,Aerial Ace;Leaf Blade;Grass Knot;</td
+254,Sceptile,Sceptile,Grass,Grass,223,169,172,5%,5%,Fury Cutter;Bullet Seed;</td,Earthquake;Aerial Ace;Dragon Claw;Leaf Blade;Frenzy Plant;</td
+255,Torchic,Torchic,Fire,Grass,130,87,128,20%,10%,Ember;Scratch;</td,Flamethrower;Rock Tomb;Flame Charge;</td
+256,Combusken,Combusken,Fire,Fighting,163,115,155,10%,7%,Ember;Peck;</td,Flamethrower;Rock Slide;Flame Charge;</td
+257,Blaziken,Blaziken,Fire,Fighting,240,141,190,5%,5%,Counter;Fire Spin;</td,Stone Edge;Blaze Kick;</td
+258,Mudkip,Mudkip,Water,Fighting,126,93,137,20%,10%,Tackle;Water Gun;</td,Sludge;Dig;Stomp;Frustration;</td
+259,Marshtomp,Marshtomp,Water,Ground,156,133,172,10%,7%,Mud Shot;Water Gun;</td,Sludge;Mud Bomb;Surf;Frustration;</td
+260,Swampert,Swampert,Water,Ground,208,175,225,5%,5%,Mud Shot;Water Gun;</td,Earthquake;Sludge Wave;Surf;Hydro Cannon;</td
+261,Poochyena,Poochyena,Dark,Ground,96,61,111,50%,20%,Tackle;Snarl;</td,Dig;Poison Fang;Crunch;</td
+262,Mightyena,Mightyena,Dark,Ground,171,132,172,20%,7%,Bite;Fire Fang;Thunder Fang;Ice Fang;</td,Poison Fang;Play Rough;Crunch;</td
+263,Zigzagoon,Zigzagoon,Normal,Ground,58,80,116,50%,20%,Tackle;Rock Smash;</td,Dig;Thunderbolt;Grass Knot;Frustration;</td
+263,Zigzagoon,Zigzagoon (Galarian Zigzagoon),Dark,Normal,58,80,116,50%,20%,Tackle;Take Down;</td,Dig;Swift;Body Slam;Frustration;</td
+264,Linoone,Linoone,Normal,Normal,142,128,186,20%,7%,Shadow Claw;Tackle;</td,Dig;Thunder;Grass Knot;Frustration;</td
+264,Linoone,Linoone (Galarian Linoone),Dark,Normal,142,128,186,20%,7%,Lick;Snarl;</td,Dig;Gunk Shot;Body Slam;Frustration;</td
+265,Wurmple,Wurmple,Bug,Normal,75,59,128,50%,20%,Bug Bite;Tackle;</td,Struggle;</td
+266,Silcoon,Silcoon,Bug,Normal,60,77,137,25%,9%,Bug Bite;Poison Sting;</td,Struggle;</td
+267,Beautifly,Beautifly,Bug,Flying,189,98,155,12.5%,6%,Infestation;Struggle Bug;</td,Bug Buzz;Air Cutter;Silver Wind;</td
+268,Cascoon,Cascoon,Bug,Flying,60,77,137,25%,9%,Bug Bite;Poison Sting;</td,Struggle;</td
+269,Dustox,Dustox,Bug,Poison,98,162,155,12.5%,6%,Confusion;Struggle Bug;</td,Bug Buzz;Sludge Bomb;Silver Wind;</td
+270,Lotad,Lotad,Water,Grass,71,77,120,50%,20%,Razor Leaf;Water Gun;</td,Bubble Beam;Energy Ball;</td
+271,Lombre,Lombre,Water,Grass,112,119,155,25%,9%,Razor Leaf;Bubble;</td,Ice Beam;Bubble Beam;Grass Knot;</td
+272,Ludicolo,Ludicolo,Water,Grass,173,176,190,12.5%,6%,Razor Leaf;Bubble;</td,Ice Beam;Blizzard;Hydro Pump;Solar Beam;Energy Ball;Leaf Storm;</td
+273,Seedot,Seedot,Grass,Grass,71,77,120,50%,20%,Quick Attack;Bullet Seed;</td,Grass Knot;Energy Ball;Foul Play;Frustration;</td
+274,Nuzleaf,Nuzleaf,Grass,Dark,134,78,172,25%,9%,Razor Leaf;Feint Attack;</td,Leaf Blade;Grass Knot;Foul Play;Frustration;</td
+275,Shiftry,Shiftry,Grass,Dark,200,121,207,12.5%,6%,Razor Leaf;Feint Attack;Bullet Seed;Snarl;</td,Leaf Blade;Hurricane;Foul Play;Leaf Tornado;Frustration;</td
+276,Taillow,Taillow,Normal,Flying,106,61,120,50%,20%,Peck;Quick Attack;</td,Aerial Ace;</td
+277,Swellow,Swellow,Normal,Flying,185,124,155,20%,7%,Wing Attack;Steel Wing;</td,Aerial Ace;Brave Bird;Sky Attack;</td
+278,Wingull,Wingull,Water,Flying,106,61,120,50%,20%,Quick Attack;Water Gun;</td,Ice Beam;Water Pulse;Air Cutter;</td
+279,Pelipper,Pelipper,Water,Flying,175,174,155,20%,7%,Wing Attack;Water Gun;</td,Blizzard;Hydro Pump;Hurricane;Weather Ball - Water;</td
+280,Ralts,Ralts,Psychic,Fairy,79,59,99,40%,9%,Confusion;Charge Beam;</td,Psyshock;Shadow Sneak;Disarming Voice;Frustration;</td
+281,Kirlia,Kirlia,Psychic,Fairy,117,90,116,10%,6%,Confusion;Charge Beam;</td,Shadow Sneak;Disarming Voice;Psychic;Frustration;</td
+282,Gardevoir,Gardevoir,Psychic,Fairy,237,195,169,5%,5%,Confusion;Charge Beam;Charm;</td,Shadow Ball;Dazzling Gleam;Psychic;Frustration;</td
+283,Surskit,Surskit,Bug,Water,93,87,120,50%,20%,Bug Bite;Bubble;</td,Bubble Beam;Aqua Jet;Signal Beam;</td
+284,Masquerain,Masquerain,Bug,Flying,192,150,172,20%,7%,Air Slash;Infestation;</td,Bubble Beam;Ominous Wind;Air Cutter;Silver Wind;Lunge;</td
+285,Shroomish,Shroomish,Grass,Flying,74,110,155,50%,20%,Tackle;Bullet Seed;</td,Seed Bomb;Grass Knot;Energy Ball;</td
+286,Breloom,Breloom,Grass,Fighting,241,144,155,20%,7%,Counter;Bullet Seed;</td,Seed Bomb;Sludge Bomb;Dynamic Punch;Grass Knot;</td
+287,Slakoth,Slakoth,Normal,Fighting,104,92,155,40%,9%,Yawn;</td,Night Slash;Brick Break;Body Slam;</td
+288,Vigoroth,Vigoroth,Normal,Fighting,159,145,190,10%,6%,Scratch;Counter;</td,Bulldoze;Brick Break;Body Slam;</td
+289,Slaking,Slaking,Normal,Fighting,290,166,284,5%,5%,Yawn;</td,Hyper Beam;Earthquake;Play Rough;Body Slam;</td
+290,Nincada,Nincada,Bug,Ground,80,126,104,20%,10%,Bug Bite;Scratch;</td,Aerial Ace;Bug Buzz;Night Slash;</td
+291,Ninjask,Ninjask,Bug,Flying,199,112,156,10%,7%,Fury Cutter;Metal Claw;</td,Aerial Ace;Bug Buzz;Shadow Ball;</td
+292,Shedinja,Shedinja,Bug,Ghost,153,73,1,5%,5%,Bug Bite;Shadow Claw;Struggle Bug;</td,Dig;Aerial Ace;Shadow Sneak;</td
+293,Whismur,Whismur,Normal,Ghost,92,42,162,50%,20%,Pound;Astonish;</td,Flamethrower;Disarming Voice;Stomp;</td
+294,Loudred,Loudred,Normal,Ghost,134,81,197,25%,9%,Bite;Rock Smash;</td,Flamethrower;Disarming Voice;Stomp;</td
+295,Exploud,Exploud,Normal,Ghost,179,137,232,12.5%,6%,Bite;Astonish;</td,Disarming Voice;Fire Blast;Crunch;</td
+296,Makuhita,Makuhita,Fighting,Ghost,99,54,176,50%,10%,Tackle;Rock Smash;</td,Cross Chop;Low Sweep;Heavy Slam;</td
+297,Hariyama,Hariyama,Fighting,Ghost,209,114,302,20%,6%,Bullet Punch;Counter;</td,Close Combat;Dynamic Punch;Heavy Slam;Superpower;</td
+298,Azurill,Azurill,Normal,Fairy,36,71,137,10%,4%,Splash;Bubble;</td,Ice Beam;Bubble Beam;Body Slam;</td
+299,Nosepass,Nosepass,Rock,Fairy,82,215,102,20%,9%,Spark;Rock Throw;</td,Rock Slide;Thunderbolt;Rock Blast;Frustration;</td
+300,Skitty,Skitty,Normal,Fairy,84,79,137,50%,10%,Tackle;Feint Attack;</td,Dig;Disarming Voice;Wild Charge;</td
+301,Delcatty,Delcatty,Normal,Fairy,132,127,172,20%,6%,Zen Headbutt;Feint Attack;Charm;</td,Disarming Voice;Play Rough;Wild Charge;</td
+302,Sableye,Sableye,Dark,Ghost,141,136,137,20%,7%,Shadow Claw;Feint Attack;</td,Power Gem;Shadow Sneak;Foul Play;Frustration;</td
+303,Mawile,Mawile,Steel,Fairy,155,141,137,50%,9%,Bite;Fire Fang;Astonish;Ice Fang;</td,Vise Grip;Iron Head;Play Rough;Power-Up Punch;Frustration;</td
+304,Aron,Aron,Steel,Rock,121,141,137,50%,20%,Tackle;Metal Claw;</td,Rock Tomb;Iron Head;Body Slam;Frustration;</td
+305,Lairon,Lairon,Steel,Rock,158,198,155,25%,9%,Metal Claw;Iron Tail;</td,Rock Slide;Body Slam;Heavy Slam;Frustration;</td
+306,Aggron,Aggron,Steel,Rock,198,257,172,12.5%,6%,Dragon Tail;Iron Tail;Smack Down;</td,Stone Edge;Thunder;Heavy Slam;Frustration;</td
+307,Meditite,Meditite,Fighting,Psychic,78,107,102,50%,10%,Confusion;Rock Smash;</td,Ice Punch;Low Sweep;Psyshock;</td
+308,Medicham,Medicham,Fighting,Psychic,121,152,155,20%,6%,Psycho Cut;Counter;</td,Ice Punch;Psychic;Dynamic Punch;Power-Up Punch;</td
+309,Electrike,Electrike,Electric,Psychic,123,78,120,50%,10%,Spark;Quick Attack;</td,Discharge;Thunderbolt;Swift;</td
+310,Manectric,Manectric,Electric,Psychic,215,127,172,20%,6%,Charge Beam;Snarl;Thunder Fang;</td,Thunder;Flame Burst;Wild Charge;Overheat;</td
+311,Plusle,Plusle,Electric,Psychic,167,129,155,30%,9%,Spark;Quick Attack;</td,Discharge;Thunderbolt;Swift;Grass Knot;</td
+312,Minun,Minun,Electric,Psychic,147,150,155,30%,9%,Spark;Quick Attack;</td,Discharge;Thunderbolt;Swift;Grass Knot;</td
+313,Volbeat,Volbeat,Bug,Psychic,143,166,163,30%,9%,Tackle;Struggle Bug;</td,Bug Buzz;Thunderbolt;Signal Beam;</td
+314,Illumise,Illumise,Bug,Psychic,143,166,163,30%,9%,Tackle;Struggle Bug;</td,Bug Buzz;Dazzling Gleam;Silver Wind;</td
+315,Roselia,Roselia,Grass,Poison,186,131,137,30%,9%,Razor Leaf;Poison Jab;</td,Petal Blizzard;Dazzling Gleam;Sludge Bomb;</td
+316,Gulpin,Gulpin,Poison,Poison,80,99,172,50%,10%,Pound;Rock Smash;</td,Sludge;Ice Beam;Gunk Shot;</td
+317,Swalot,Swalot,Poison,Poison,140,159,225,20%,6%,Rock Smash;Infestation;</td,Ice Beam;Sludge Bomb;Gunk Shot;Acid Spray;</td
+318,Carvanha,Carvanha,Water,Dark,171,39,128,50%,10%,Bite;Snarl;</td,Poison Fang;Aqua Jet;Crunch;Frustration;</td
+319,Sharpedo,Sharpedo,Water,Dark,243,83,172,20%,6%,Bite;Waterfall;</td,Poison Fang;Hydro Pump;Crunch;Frustration;</td
+320,Wailmer,Wailmer,Water,Dark,136,68,277,50%,10%,Water Gun;Splash;</td,Water Pulse;Body Slam;Heavy Slam;</td
+321,Wailord,Wailord,Water,Dark,175,87,347,20%,6%,Water Gun;Zen Headbutt;</td,Hyper Beam;Blizzard;Surf;</td
+322,Numel,Numel,Fire,Ground,119,79,155,50%,10%,Ember;Tackle;</td,Heat Wave;Bulldoze;Stomp;</td
+323,Camerupt,Camerupt,Fire,Ground,194,136,172,20%,6%,Ember;Rock Smash;</td,Earthquake;Solar Beam;Overheat;Earth Power;</td
+324,Torkoal,Torkoal,Fire,Ground,151,203,172,30%,9%,Ember;Fire Spin;</td,Earthquake;Solar Beam;Overheat;</td
+325,Spoink,Spoink,Psychic,Ground,125,122,155,50%,10%,Splash;Zen Headbutt;</td,Psybeam;Shadow Ball;Mirror Coat;</td
+326,Grumpig,Grumpig,Psychic,Ground,171,188,190,20%,6%,Charge Beam;Extrasensory;</td,Shadow Ball;Psychic;Mirror Coat;</td
+327,Spinda,Spinda,Normal,Ground,116,116,155,30%,9%,Sucker Punch;Psycho Cut;</td,Dig;Rock Tomb;Icy Wind;</td
+328,Trapinch,Trapinch,Ground,Ground,162,78,128,40%,9%,Mud Shot;Struggle Bug;</td,Dig;Sand Tomb;Crunch;Frustration;</td
+329,Vibrava,Vibrava,Ground,Dragon,134,99,137,10%,6%,Dragon Breath;Mud Shot;</td,Bug Buzz;Bulldoze;Sand Tomb;Frustration;</td
+330,Flygon,Flygon,Ground,Dragon,205,168,190,5%,5%,Mud Shot;Dragon Tail;</td,Earthquake;Stone Edge;Dragon Claw;Earth Power;</td
+331,Cacnea,Cacnea,Grass,Dragon,156,74,137,50%,10%,Sucker Punch;Poison Sting;</td,Seed Bomb;Brick Break;Grass Knot;Frustration;Payback;</td
+332,Cacturne,Cacturne,Grass,Dark,221,115,172,20%,6%,Sucker Punch;Poison Jab;</td,Dark Pulse;Dynamic Punch;Grass Knot;Frustration;Payback;</td
+333,Swablu,Swablu,Normal,Flying,76,132,128,50%,10%,Peck;Astonish;</td,Ice Beam;Aerial Ace;Disarming Voice;</td
+334,Altaria,Altaria,Dragon,Flying,141,201,181,20%,6%,Dragon Breath;Peck;</td,Dragon Pulse;Dazzling Gleam;Moonblast;Sky Attack;</td
+335,Zangoose,Zangoose,Normal,Flying,222,124,177,30%,9%,Fury Cutter;Shadow Claw;</td,Dig;Night Slash;Close Combat;</td
+336,Seviper,Seviper,Poison,Flying,196,118,177,30%,9%,Poison Jab;Iron Tail;</td,Wrap;Poison Fang;Crunch;</td
+337,Lunatone,Lunatone,Rock,Psychic,178,153,207,30%,9%,Rock Throw;Confusion;</td,Rock Slide;Moonblast;Psychic;</td
+338,Solrock,Solrock,Rock,Psychic,178,153,207,30%,9%,Rock Throw;Confusion;</td,Rock Slide;Psychic;Solar Beam;</td
+339,Barboach,Barboach,Water,Ground,93,82,137,50%,10%,Mud Shot;Water Gun;</td,Ice Beam;Aqua Tail;Mud Bomb;</td
+340,Whiscash,Whiscash,Water,Ground,151,141,242,20%,6%,Mud Shot;Water Gun;</td,Blizzard;Mud Bomb;Water Pulse;</td
+341,Corphish,Corphish,Water,Ground,141,99,125,50%,10%,Bubble;Rock Smash;</td,Vise Grip;Bubble Beam;Aqua Jet;</td
+342,Crawdaunt,Crawdaunt,Water,Dark,224,142,160,20%,6%,Snarl;Waterfall;</td,Vise Grip;Night Slash;Bubble Beam;Crabhammer;</td
+343,Baltoy,Baltoy,Ground,Psychic,77,124,120,50%,10%,Confusion;Extrasensory;</td,Dig;Psybeam;Gyro Ball;</td
+344,Claydol,Claydol,Ground,Psychic,140,229,155,20%,6%,Mud-Slap;Confusion;Extrasensory;</td,Earthquake;Ice Beam;Shadow Ball;Psychic;Gyro Ball;Earth Power;</td
+345,Lileep,Lileep,Rock,Grass,105,150,165,50%,10%,Acid;Infestation;</td,Ancient Power;Grass Knot;Mirror Coat;Frustration;</td
+346,Cradily,Cradily,Rock,Grass,152,194,200,20%,6%,Acid;Infestation;Bullet Seed;</td,Stone Edge;Bulldoze;Grass Knot;Frustration;</td
+347,Anorith,Anorith,Rock,Bug,176,100,128,50%,10%,Scratch;Struggle Bug;</td,Aqua Jet;Ancient Power;Cross Poison;Frustration;</td
+348,Armaldo,Armaldo,Rock,Bug,222,174,181,20%,6%,Fury Cutter;Struggle Bug;</td,Cross Poison;Water Pulse;Rock Blast;Frustration;</td
+349,Feebas,Feebas,Water,Bug,29,85,85,70%,15%,Tackle;Splash;</td,Mirror Coat;</td
+350,Milotic,Milotic,Water,Bug,192,219,216,10%,7%,Dragon Tail;Waterfall;</td,Hyper Beam;Blizzard;Surf;</td
+351,Castform,Castform,Normal,Bug,139,139,172,30%,10%,Tackle;Hex;</td,Hurricane;Energy Ball;Weather Ball - Rock;Weather Ball - Normal;</td
+351,Castform,Castform (Sunny Form),Fire,Bug,139,139,172,30%,10%,Ember;Tackle;</td,Fire Blast;Solar Beam;Weather Ball - Fire;</td
+351,Castform,Castform (Rainy Form),Water,Bug,139,139,172,30%,10%,Tackle;Water Gun;</td,Thunder;Hydro Pump;Weather Ball - Water;</td
+351,Castform,Castform (Snowy Form),Ice,Bug,139,139,172,30%,10%,Tackle;Powder Snow;</td,Ice Beam;Blizzard;Weather Ball - Ice;</td
+353,Shuppet,Shuppet,Ghost,Bug,138,65,127,40%,10%,Feint Attack;Astonish;</td,Shadow Sneak;Ominous Wind;Night Shade;Frustration;</td
+354,Banette,Banette,Ghost,Bug,218,126,162,20%,7%,Shadow Claw;Hex;</td,Shadow Ball;Thunder;Dazzling Gleam;Frustration;</td
+355,Duskull,Duskull,Ghost,Bug,70,162,85,40%,10%,Astonish;Hex;</td,Shadow Sneak;Ominous Wind;Night Shade;Frustration;</td
+356,Dusclops,Dusclops,Ghost,Bug,124,234,120,20%,7%,Feint Attack;Hex;</td,Ice Punch;Shadow Punch;Fire Punch;Frustration;</td
+357,Tropius,Tropius,Grass,Flying,136,163,223,30%,10%,Razor Leaf;Air Slash;</td,Aerial Ace;Leaf Blade;Stomp;</td
+358,Chimecho,Chimecho,Psychic,Flying,175,170,181,30%,10%,Astonish;Extrasensory;</td,Psyshock;Shadow Ball;Energy Ball;</td
+359,Absol,Absol,Dark,Flying,246,120,163,50%,10%,Psycho Cut;Snarl;</td,Dark Pulse;Megahorn;Thunder;Frustration;Payback;</td
+360,Wynaut,Wynaut,Psychic,Flying,41,86,216,30%,10%,Splash;Counter;</td,Mirror Coat;</td
+361,Snorunt,Snorunt,Ice,Flying,95,95,137,50%,10%,Powder Snow;Hex;</td,Shadow Ball;Icy Wind;Avalanche;</td
+362,Glalie,Glalie,Ice,Flying,162,162,190,20%,6%,Ice Shard;Frost Breath;</td,Shadow Ball;Avalanche;Gyro Ball;</td
+363,Spheal,Spheal,Ice,Water,95,90,172,50%,10%,Water Gun;Rock Smash;</td,Water Pulse;Body Slam;Aurora Beam;Frustration;</td
+364,Sealeo,Sealeo,Ice,Water,137,132,207,25%,7%,Water Gun;Powder Snow;</td,Water Pulse;Body Slam;Aurora Beam;Frustration;</td
+365,Walrein,Walrein,Ice,Water,182,176,242,12.5%,5%,Frost Breath;Waterfall;</td,Earthquake;Blizzard;Water Pulse;Frustration;</td
+366,Clamperl,Clamperl,Water,Water,133,135,111,50%,10%,Water Gun;</td,Ice Beam;Water Pulse;Body Slam;</td
+367,Huntail,Huntail,Water,Water,197,179,146,20%,6%,Bite;Water Gun;</td,Ice Beam;Aqua Tail;Crunch;</td
+368,Gorebyss,Gorebyss,Water,Water,211,179,146,20%,6%,Water Gun;Confusion;</td,Draining Kiss;Water Pulse;Psychic;</td
+369,Relicanth,Relicanth,Water,Rock,162,203,225,90%,1%,Water Gun;Zen Headbutt;</td,Aqua Tail;Ancient Power;Hydro Pump;</td
+370,Luvdisc,Luvdisc,Water,Rock,81,128,125,30%,10%,Water Gun;Splash;</td,Aqua Jet;Draining Kiss;Water Pulse;</td
+371,Bagon,Bagon,Dragon,Rock,134,93,128,40%,9%,Bite;Ember;</td,Flamethrower;Twister;Crunch;Frustration;</td
+372,Shelgon,Shelgon,Dragon,Rock,172,155,163,10%,6%,Dragon Breath;Ember;</td,Flamethrower;Twister;Dragon Pulse;Frustration;</td
+373,Salamence,Salamence,Dragon,Flying,277,168,216,5%,5%,Bite;Fire Fang;Dragon Tail;</td,Fire Blast;Hydro Pump;Outrage;</td
+374,Beldum,Beldum,Steel,Psychic,96,132,120,40%,9%,Take Down;</td,Struggle;Frustration;</td
+375,Metang,Metang,Steel,Psychic,138,176,155,10%,6%,Metal Claw;Zen Headbutt;</td,Psyshock;Psychic;Gyro Ball;Frustration;</td
+376,Metagross,Metagross,Steel,Psychic,257,228,190,5%,5%,Bullet Punch;Zen Headbutt;</td,Earthquake;Flash Cannon;Psychic;Meteor Mash;</td
+377,Regirock,Regirock,Rock,Psychic,179,309,190,2%,1%,Rock Throw;Rock Smash;Lock-On;</td,Stone Edge;Focus Blast;Zap Cannon;</td
+378,Regice,Regice,Ice,Psychic,179,309,190,2%,1%,Frost Breath;Rock Smash;Lock-On;</td,Earthquake;Blizzard;Focus Blast;</td
+379,Registeel,Registeel,Steel,Psychic,143,285,190,2%,1%,Metal Claw;Rock Smash;Lock-On;</td,Hyper Beam;Flash Cannon;Focus Blast;</td
+380,Latias,Latias,Dragon,Psychic,228,246,190,2%,1%,Dragon Breath;Zen Headbutt;Charm;</td,Thunder;Psychic;Outrage;</td
+381,Latios,Latios,Dragon,Psychic,268,212,190,2%,1%,Dragon Breath;Zen Headbutt;</td,Dragon Claw;Psychic;Solar Beam;</td
+382,Kyogre,Kyogre,Water,Psychic,270,228,205,2%,1%,Waterfall;</td,Blizzard;Thunder;Hydro Pump;Surf;</td
+383,Groudon,Groudon,Ground,Psychic,270,228,205,2%,1%,Mud Shot;Dragon Tail;</td,Earthquake;Fire Blast;Fire Punch;Solar Beam;</td
+384,Rayquaza,Rayquaza,Dragon,Flying,284,170,213,2%,1%,Dragon Tail;Air Slash;</td,Aerial Ace;Ancient Power;Hurricane;Outrage;</td
+385,Jirachi,Jirachi,Steel,Psychic,210,210,225,100%,0%,Confusion;Charge Beam;</td,Dazzling Gleam;Psychic;Doom Desire;</td
+386,Deoxys,Deoxys (Normal Forme),Psychic,Psychic,345,115,137,2%,1%,Zen Headbutt;Charge Beam;</td,Hyper Beam;Zap Cannon;Psycho Boost;</td
+386,Deoxys,Deoxys (Attack Forme),Psychic,Psychic,414,46,137,2%,1%,Poison Jab;Zen Headbutt;</td,Dark Pulse;Zap Cannon;Psycho Boost;</td
+386,Deoxys,Deoxys (Defense Forme),Psychic,Psychic,144,330,137,2%,1%,Zen Headbutt;Counter;</td,Rock Slide;Thunderbolt;Psycho Boost;</td
+386,Deoxys,Deoxys (Speed Forme),Psychic,Psychic,230,218,137,2%,1%,Zen Headbutt;Charge Beam;</td,Thunderbolt;Swift;Psycho Boost;</td
+387,Turtwig,Turtwig,Grass,Psychic,119,110,146,20%,10%,Razor Leaf;Tackle;</td,Seed Bomb;Body Slam;Energy Ball;Frustration;</td
+388,Grotle,Grotle,Grass,Psychic,157,143,181,10%,7%,Bite;Razor Leaf;</td,Solar Beam;Body Slam;Energy Ball;Frustration;</td
+389,Torterra,Torterra,Grass,Ground,202,188,216,5%,5%,Bite;Razor Leaf;</td,Earthquake;Stone Edge;Solar Beam;Sand Tomb;Frenzy Plant;</td
+390,Chimchar,Chimchar,Fire,Ground,113,86,127,20%,10%,Ember;Scratch;</td,Flame Wheel;Flamethrower;Flame Charge;Frustration;</td
+391,Monferno,Monferno,Fire,Fighting,158,105,162,10%,7%,Ember;Rock Smash;</td,Flame Wheel;Flamethrower;Low Sweep;Frustration;</td
+392,Infernape,Infernape,Fire,Fighting,222,151,183,5%,5%,Rock Smash;Fire Spin;</td,Flamethrower;Solar Beam;Close Combat;Blast Burn;</td
+393,Piplup,Piplup,Water,Fighting,112,102,142,20%,10%,Pound;Bubble;</td,Drill Peck;Bubble Beam;Icy Wind;</td
+394,Prinplup,Prinplup,Water,Fighting,150,139,162,10%,7%,Metal Claw;Bubble;</td,Bubble Beam;Hydro Pump;Icy Wind;</td
+395,Empoleon,Empoleon,Water,Steel,210,186,197,5%,5%,Metal Claw;Waterfall;</td,Flash Cannon;Drill Peck;Blizzard;Hydro Pump;Hydro Cannon;</td
+396,Starly,Starly,Normal,Flying,101,58,120,50%,20%,Quick Attack;Tackle;</td,Aerial Ace;Brave Bird;</td
+397,Staravia,Staravia,Normal,Flying,142,94,146,25%,9%,Wing Attack;Quick Attack;</td,Heat Wave;Aerial Ace;Brave Bird;</td
+398,Staraptor,Staraptor,Normal,Flying,234,140,198,12.5%,6%,Wing Attack;Quick Attack;</td,Heat Wave;Close Combat;Brave Bird;</td
+399,Bidoof,Bidoof,Normal,Flying,80,73,153,50%,20%,Tackle;Take Down;</td,Ice Beam;</td
+400,Bibarel,Bibarel,Normal,Water,162,119,188,20%,7%,Water Gun;Take Down;</td,Hyper Beam;Hyper Fang;Surf;</td
+401,Kricketot,Kricketot,Bug,Water,45,74,114,50%,20%,Bug Bite;Struggle Bug;</td,Struggle;</td
+402,Kricketune,Kricketune,Bug,Water,160,100,184,20%,7%,Fury Cutter;Struggle Bug;</td,Aerial Ace;Bug Buzz;X-Scissor;</td
+403,Shinx,Shinx,Electric,Water,117,64,128,50%,10%,Spark;Tackle;</td,Discharge;Thunderbolt;Swift;</td
+404,Luxio,Luxio,Electric,Water,159,95,155,25%,7%,Bite;Spark;</td,Thunderbolt;Wild Charge;Crunch;</td
+405,Luxray,Luxray,Electric,Water,232,156,190,12.5%,5%,Spark;Snarl;Hidden Power;</td,Hyper Beam;Wild Charge;Crunch;</td
+406,Budew,Budew,Grass,Poison,91,109,120,10%,4%,Razor Leaf;Hidden Power;</td,Grass Knot;Energy Ball;</td
+407,Roserade,Roserade,Grass,Poison,243,185,155,15%,7%,Razor Leaf;Poison Jab;Bullet Seed;</td,Dazzling Gleam;Sludge Bomb;Solar Beam;Grass Knot;Weather Ball - Fire;Leaf Storm;</td
+408,Cranidos,Cranidos,Rock,Poison,218,71,167,50%,10%,Zen Headbutt;Take Down;</td,Ancient Power;Rock Tomb;Bulldoze;</td
+409,Rampardos,Rampardos,Rock,Poison,295,109,219,20%,6%,Zen Headbutt;Smack Down;</td,Flamethrower;Rock Slide;Outrage;</td
+410,Shieldon,Shieldon,Rock,Steel,76,195,102,50%,10%,Tackle;Iron Tail;</td,Ancient Power;Rock Tomb;Heavy Slam;</td
+411,Bastiodon,Bastiodon,Rock,Steel,94,286,155,20%,6%,Iron Tail;Smack Down;</td,Flamethrower;Stone Edge;Flash Cannon;</td
+412,Burmy,Burmy (Plant Cloak),Bug,Steel,53,83,120,50%,20%,Bug Bite;Tackle;</td,Struggle;</td
+412,Burmy,Burmy (Sandy Cloak),Bug,Steel,53,83,120,50%,0%,Bug Bite;Tackle;</td,Struggle;</td
+412,Burmy,Burmy (Trash Cloak),Bug,Steel,53,83,120,50%,0%,Bug Bite;Tackle;</td,Struggle;</td
+413,Wormadam,Wormadam (Plant Cloak),Bug,Grass,141,180,155,15%,7%,Bug Bite;Confusion;</td,Psybeam;Bug Buzz;Energy Ball;</td
+413,Wormadam,Wormadam (Sandy Cloak),Bug,Ground,141,180,155,15%,7%,Bug Bite;Confusion;</td,Psybeam;Bug Buzz;Bulldoze;</td
+413,Wormadam,Wormadam (Trash Cloak),Bug,Steel,127,175,155,15%,7%,Bug Bite;Confusion;</td,Psybeam;Bug Buzz;Iron Head;</td
+414,Mothim,Mothim,Bug,Flying,185,98,172,15%,7%,Bug Bite;Air Slash;</td,Psybeam;Aerial Ace;Bug Buzz;</td
+415,Combee,Combee,Bug,Flying,59,83,102,15%,7%,Bug Bite;</td,Bug Buzz;</td
+416,Vespiquen,Vespiquen,Bug,Flying,149,190,172,15%,7%,Fury Cutter;Bug Bite;Poison Sting;Air Slash;</td,Bug Buzz;Power Gem;Signal Beam;X-Scissor;Fell Stinger;</td
+417,Pachirisu,Pachirisu,Electric,Flying,94,172,155,30%,9%,Spark;Volt Switch;</td,Thunder Punch;Thunder;Thunderbolt;</td
+418,Buizel,Buizel,Water,Flying,132,67,146,50%,10%,Quick Attack;Water Gun;</td,Aqua Jet;Water Pulse;Swift;</td
+419,Floatzel,Floatzel,Water,Flying,221,114,198,20%,6%,Water Gun;Waterfall;</td,Aqua Jet;Hydro Pump;Swift;</td
+420,Cherubi,Cherubi,Grass,Flying,108,92,128,50%,9%,Tackle;Bullet Seed;</td,Petal Blizzard;Seed Bomb;Dazzling Gleam;</td
+421,Cherrim,Cherrim (Overcast Form),Grass,Flying,170,153,172,10%,7%,Razor Leaf;Bullet Seed;</td,Hyper Beam;Dazzling Gleam;Solar Beam;</td
+421,Cherrim,Cherrim (Sunshine Form),Grass,Flying,170,153,172,10%,0%,Razor Leaf;Bullet Seed;</td,Hyper Beam;Dazzling Gleam;Solar Beam;Weather Ball - Fire;</td
+422,Shellos,Shellos (East Sea),Water,Flying,103,105,183,50%,10%,Mud-Slap;Hidden Power;</td,Mud Bomb;Water Pulse;Body Slam;</td
+422,Shellos,Shellos (West Sea),Water,Flying,103,105,183,50%,0%,Mud-Slap;Hidden Power;</td,Mud Bomb;Water Pulse;Body Slam;</td
+423,Gastrodon,Gastrodon (East Sea),Water,Ground,169,143,244,20%,6%,Mud-Slap;Hidden Power;</td,Water Pulse;Body Slam;Earth Power;</td
+423,Gastrodon,Gastrodon (West Sea),Water,Ground,169,143,244,20%,0%,Mud-Slap;Hidden Power;</td,Water Pulse;Body Slam;Earth Power;</td
+424,Ambipom,Ambipom,Normal,Ground,205,143,181,20%,6%,Scratch;Astonish;</td,Hyper Beam;Aerial Ace;Low Sweep;Frustration;</td
+425,Drifloon,Drifloon,Ghost,Flying,117,80,207,40%,10%,Astonish;Hex;</td,Ominous Wind;Shadow Ball;Icy Wind;</td
+426,Drifblim,Drifblim,Ghost,Flying,180,102,312,20%,7%,Astonish;Hex;</td,Ominous Wind;Shadow Ball;Icy Wind;</td
+427,Buneary,Buneary,Normal,Flying,130,105,146,50%,10%,Quick Attack;Pound;</td,Fire Punch;Swift;</td
+428,Lopunny,Lopunny,Normal,Flying,156,194,163,20%,6%,Low Kick;Pound;</td,Hyper Beam;Fire Punch;Focus Blast;</td
+429,Mismagius,Mismagius,Ghost,Flying,211,187,155,10%,7%,Sucker Punch;Hex;</td,Dark Pulse;Shadow Ball;Dazzling Gleam;Frustration;</td
+430,Honchkrow,Honchkrow,Dark,Flying,243,103,225,10%,7%,Peck;Snarl;</td,Dark Pulse;Psychic;Brave Bird;Sky Attack;Frustration;</td
+431,Glameow,Glameow,Normal,Flying,109,82,135,40%,10%,Quick Attack;Scratch;</td,Aerial Ace;Thunderbolt;Play Rough;</td
+432,Purugly,Purugly,Normal,Flying,172,133,174,15%,8%,Shadow Claw;Scratch;</td,Aerial Ace;Thunder;Play Rough;</td
+433,Chingling,Chingling,Psychic,Flying,114,94,128,10%,4%,Zen Headbutt;Astonish;</td,Wrap;Psyshock;Shadow Ball;</td
+434,Stunky,Stunky,Poison,Dark,121,90,160,50%,10%,Bite;Scratch;</td,Flamethrower;Sludge Bomb;Crunch;Frustration;</td
+435,Skuntank,Skuntank,Poison,Dark,184,132,230,20%,6%,Bite;Poison Jab;</td,Flamethrower;Sludge Bomb;Crunch;Frustration;</td
+436,Bronzor,Bronzor,Steel,Psychic,43,154,149,50%,10%,Tackle;Confusion;</td,Psyshock;Gyro Ball;Heavy Slam;Payback;</td
+437,Bronzong,Bronzong,Steel,Psychic,161,213,167,20%,6%,Confusion;Feint Attack;</td,Flash Cannon;Psyshock;Bulldoze;Psychic;Heavy Slam;Payback;</td
+438,Bonsly,Bonsly,Rock,Psychic,124,133,137,10%,4%,Rock Throw;Counter;</td,Earthquake;Rock Tomb;Rock Slide;</td
+439,Mime Jr.,Mime Jr.,Psychic,Fairy,125,142,85,10%,4%,Pound;Confusion;</td,Psybeam;Psyshock;Psychic;</td
+440,Happiny,Happiny,Normal,Fairy,25,77,225,10%,4%,Pound;Zen Headbutt;</td,Psychic;</td
+441,Chatot,Chatot,Normal,Flying,183,91,183,30%,9%,Peck;Steel Wing;</td,Heat Wave;Sky Attack;Night Shade;</td
+442,Spiritomb,Spiritomb,Ghost,Dark,169,199,137,10%,4%,Sucker Punch;Feint Attack;</td,Shadow Sneak;Ominous Wind;Shadow Ball;</td
+443,Gible,Gible,Dragon,Ground,124,84,151,40%,9%,Mud Shot;Take Down;</td,Dig;Twister;Body Slam;Frustration;</td
+444,Gabite,Gabite,Dragon,Ground,172,125,169,10%,6%,Mud Shot;Take Down;</td,Flamethrower;Dig;Twister;Frustration;</td
+445,Garchomp,Garchomp,Dragon,Ground,261,193,239,5%,5%,Mud Shot;Dragon Tail;</td,Earthquake;Fire Blast;Sand Tomb;Outrage;Earth Power;</td
+446,Munchlax,Munchlax,Normal,Ground,137,117,286,10%,4%,Lick;Tackle;</td,Gunk Shot;Bulldoze;Body Slam;</td
+447,Riolu,Riolu,Fighting,Ground,127,78,120,—,20%,Quick Attack;Counter;</td,Cross Chop;Low Sweep;Brick Break;</td
+448,Lucario,Lucario,Fighting,Steel,236,144,172,10%,5%,Bullet Punch;Counter;</td,Flash Cannon;Shadow Ball;Close Combat;Power-Up Punch;Aura Sphere;</td
+449,Hippopotas,Hippopotas,Ground,Steel,124,118,169,40%,10%,Bite;Tackle;</td,Dig;Rock Tomb;Body Slam;Frustration;</td
+450,Hippowdon,Hippowdon,Ground,Steel,201,191,239,15%,8%,Bite;Fire Fang;Thunder Fang;Ice Fang;</td,Earthquake;Stone Edge;Body Slam;Weather Ball - Rock;Earth Power;Frustration;</td
+451,Skorupi,Skorupi,Poison,Bug,93,151,120,40%,10%,Poison Sting;Infestation;</td,Aqua Tail;Cross Poison;Sludge Bomb;</td
+452,Drapion,Drapion,Poison,Dark,180,202,172,15%,8%,Bite;Poison Sting;Infestation;Ice Fang;</td,Aqua Tail;Sludge Bomb;Crunch;Fell Stinger;</td
+453,Croagunk,Croagunk,Poison,Fighting,116,76,134,40%,12%,Poison Jab;Poison Sting;</td,Low Sweep;Sludge Bomb;Brick Break;</td
+454,Toxicroak,Toxicroak,Poison,Fighting,211,133,195,15%,7%,Poison Jab;Counter;</td,Sludge Bomb;Mud Bomb;Dynamic Punch;</td
+455,Carnivine,Carnivine,Grass,Fighting,187,136,179,90%,1%,Bite;Vine Whip;</td,Power Whip;Energy Ball;Crunch;</td
+456,Finneon,Finneon,Water,Fighting,96,116,135,50%,10%,Pound;Water Gun;</td,Ice Beam;Water Pulse;Silver Wind;</td
+457,Lumineon,Lumineon,Water,Fighting,142,170,170,20%,6%,Water Gun;Waterfall;</td,Blizzard;Water Pulse;Silver Wind;</td
+458,Mantyke,Mantyke,Water,Flying,105,179,128,10%,4%,Tackle;Bubble;</td,Ice Beam;Aerial Ace;Water Pulse;</td
+459,Snover,Snover,Grass,Ice,115,105,155,30%,10%,Ice Shard;Powder Snow;</td,Ice Beam;Stomp;Energy Ball;Frustration;</td
+460,Abomasnow,Abomasnow,Grass,Ice,178,158,207,12.5%,6%,Razor Leaf;Powder Snow;</td,Blizzard;Energy Ball;Outrage;Weather Ball - Ice;Frustration;</td
+461,Weavile,Weavile,Dark,Ice,243,171,172,15%,9%,Ice Shard;Feint Attack;Snarl;</td,Focus Blast;Avalanche;Foul Play;Frustration;</td
+462,Magnezone,Magnezone,Electric,Steel,238,205,172,12.5%,5%,Spark;Charge Beam;</td,Flash Cannon;Wild Charge;Zap Cannon;Mirror Shot;Frustration;</td
+463,Lickilicky,Lickilicky,Normal,Steel,161,181,242,15%,9%,Lick;Zen Headbutt;</td,Hyper Beam;Earthquake;Shadow Ball;Solar Beam;Body Slam;</td
+464,Rhyperior,Rhyperior,Ground,Rock,241,190,251,5%,5%,Mud-Slap;Smack Down;</td,Earthquake;Stone Edge;Surf;Skull Bash;Superpower;Frustration;</td
+465,Tangrowth,Tangrowth,Grass,Rock,207,184,225,15%,10%,Vine Whip;Infestation;</td,Ancient Power;Rock Slide;Sludge Bomb;Solar Beam;Power Whip;</td
+466,Electivire,Electivire,Electric,Rock,249,163,181,15%,10%,Thunder Shock;Low Kick;</td,Flamethrower;</td
+467,Magmortar,Magmortar,Fire,Rock,247,172,181,15%,10%,Karate Chop;Fire Spin;</td,Thunderbolt;</td
+468,Togekiss,Togekiss,Fairy,Flying,225,217,198,1%,5%,Air Slash;Hidden Power;Charm;</td,Flamethrower;Aerial Ace;Ancient Power;Dazzling Gleam;</td
+469,Yanmega,Yanmega,Bug,Flying,231,156,200,17.5%,5%,Bug Bite;Wing Attack;</td,Aerial Ace;Bug Buzz;Ancient Power;</td
+470,Leafeon,Leafeon,Grass,Flying,216,219,163,12.5%,6%,Razor Leaf;Quick Attack;Bullet Seed;</td,Solar Beam;Leaf Blade;Energy Ball;Last Resort;</td
+471,Glaceon,Glaceon,Ice,Flying,238,205,163,12.5%,6%,Ice Shard;Frost Breath;</td,Ice Beam;Water Pulse;</td
+472,Gliscor,Gliscor,Ground,Flying,185,222,181,12.5%,9%,Fury Cutter;Wing Attack;</td,Earthquake;Aerial Ace;Night Slash;Sand Tomb;Frustration;</td
+473,Mamoswine,Mamoswine,Ice,Ground,247,146,242,5%,5%,Mud-Slap;Powder Snow;</td,Stone Edge;Ancient Power;</td
+474,Porygon-Z,Porygon-Z,Normal,Ground,264,150,198,5%,5%,Charge Beam;Hidden Power;Lock-On;</td,Hyper Beam;Blizzard;Solar Beam;Zap Cannon;Frustration;</td
+475,Gallade,Gallade,Psychic,Fighting,237,195,169,50%,5%,Low Kick;Confusion;Charm;</td,Psychic;Leaf Blade;Close Combat;Frustration;</td
+476,Probopass,Probopass,Rock,Steel,135,275,155,10%,7%,Spark;Rock Throw;</td,Rock Slide;Magnet Bomb;Thunderbolt;Frustration;</td
+477,Dusknoir,Dusknoir,Ghost,Steel,180,254,128,10%,5%,Astonish;Hex;</td,Dark Pulse;Ominous Wind;Shadow Ball;</td
+478,Froslass,Froslass,Ice,Ghost,171,150,172,20%,7%,Powder Snow;Hex;</td,Shadow Ball;Avalanche;Crunch;</td
+479,Rotom,Rotom (Wash Rotom),Electric,Water,204,219,137,30%,10%,Thunder Shock;Astonish;</td,Thunder;Thunderbolt;Hydro Pump;</td
+480,Uxie,Uxie,Psychic,Water,156,270,181,2%,0%,Confusion;Extrasensory;</td,Thunder;Swift;Future Sight;</td
+481,Mesprit,Mesprit,Psychic,Water,212,212,190,2%,0%,Confusion;Extrasensory;</td,Blizzard;Swift;Future Sight;</td
+482,Azelf,Azelf,Psychic,Water,270,151,181,2%,0%,Confusion;Extrasensory;</td,Fire Blast;Swift;Future Sight;</td
+483,Dialga,Dialga,Steel,Dragon,275,211,205,2%,4%,Dragon Breath;Metal Claw;</td,Iron Head;Thunder;Draco Meteor;</td
+484,Palkia,Palkia,Water,Dragon,280,215,189,2%,4%,Dragon Breath;Dragon Tail;</td,Aqua Tail;Fire Blast;Hydro Pump;Draco Meteor;</td
+485,Heatran,Heatran,Fire,Steel,251,213,209,2%,4%,Bug Bite;Fire Spin;</td,Flamethrower;Stone Edge;Iron Head;Fire Blast;</td
+486,Regigigas,Regigigas,Normal,Steel,287,210,221,2%,4%,Zen Headbutt;Hidden Power;</td,Thunder;Focus Blast;Giga Impact;</td
+487,Giratina,Giratina (Altered Forme),Ghost,Dragon,187,225,284,2%,4%,Dragon Breath;Shadow Claw;</td,Ancient Power;Shadow Sneak;Dragon Claw;</td
+487,Giratina,Giratina (Origin Forme),Ghost,Dragon,225,187,284,2%,4%,Shadow Claw;Dragon Tail;</td,Ominous Wind;Shadow Ball;Dragon Pulse;</td
+488,Cresselia,Cresselia,Psychic,Dragon,152,258,260,2%,4%,Psycho Cut;Confusion;</td,Moonblast;Aurora Beam;Grass Knot;Future Sight;</td
+491,Darkrai,Darkrai,Dark,Dragon,285,198,172,2%,0%,Feint Attack;Snarl;</td,Dark Pulse;Shadow Ball;Focus Blast;</td
+494,Victini,Victini,Psychic,Fire,210,210,225,100%,0%,Quick Attack;Confusion;</td,Psychic;Focus Blast;Overheat;V-create;</td
+495,Snivy,Snivy,Grass,Fire,88,107,128,20%,10%,Vine Whip;Tackle;</td,Wrap;Seed Bomb;Energy Ball;</td
+496,Servine,Servine,Grass,Fire,122,152,155,10%,10%,Vine Whip;Iron Tail;</td,Wrap;Grass Knot;Leaf Tornado;</td
+497,Serperior,Serperior,Grass,Fire,161,204,181,5%,5%,Vine Whip;Iron Tail;</td,Aerial Ace;Grass Knot;Frenzy Plant;Leaf Tornado;</td
+498,Tepig,Tepig,Fire,Fire,115,85,163,20%,10%,Ember;Tackle;</td,Flamethrower;Flame Charge;Body Slam;</td
+499,Pignite,Pignite,Fire,Fighting,173,106,207,10%,7%,Ember;Tackle;</td,Flamethrower;Rock Tomb;Flame Charge;</td
+500,Emboar,Emboar,Fire,Fighting,235,127,242,5%,5%,Low Kick;Ember;</td,Heat Wave;Rock Slide;Flame Charge;Focus Blast;Blast Burn;</td
+501,Oshawott,Oshawott,Water,Fighting,117,85,146,20%,10%,Tackle;Water Gun;</td,Night Slash;Aqua Tail;Water Pulse;</td
+502,Dewott,Dewott,Water,Fighting,159,116,181,10%,7%,Fury Cutter;Water Gun;</td,Aqua Tail;X-Scissor;Water Pulse;</td
+503,Samurott,Samurott,Water,Fighting,212,157,216,5%,5%,Fury Cutter;Waterfall;</td,Megahorn;Blizzard;Hydro Pump;Hydro Cannon;Razor Shell;</td
+504,Patrat,Patrat,Normal,Fighting,98,73,128,50%,20%,Bite;Tackle;</td,Dig;Hyper Fang;Grass Knot;</td
+505,Watchog,Watchog,Normal,Fighting,165,139,155,20%,7%,Bite;Low Kick;</td,Hyper Fang;Grass Knot;Crunch;</td
+506,Lillipup,Lillipup,Normal,Fighting,107,86,128,50%,20%,Tackle;Take Down;</td,Dig;Rock Tomb;Thunderbolt;</td
+507,Herdier,Herdier,Normal,Fighting,145,126,163,25%,9%,Lick;Take Down;</td,Dig;Thunderbolt;Play Rough;</td
+508,Stoutland,Stoutland,Normal,Fighting,206,182,198,12.5%,5%,Lick;Take Down;Ice Fang;</td,Play Rough;Wild Charge;Crunch;</td
+509,Purrloin,Purrloin,Dark,Fighting,98,73,121,50%,20%,Sucker Punch;Scratch;</td,Dark Pulse;Night Slash;Play Rough;</td
+510,Liepard,Liepard,Dark,Fighting,187,106,162,20%,7%,Snarl;Charm;</td,Dark Pulse;Play Rough;Gunk Shot;Payback;</td
+511,Pansage,Pansage,Grass,Fighting,104,94,137,50%,20%,Vine Whip;Scratch;</td,Seed Bomb;Energy Ball;Crunch;</td
+512,Simisage,Simisage,Grass,Fighting,206,133,181,20%,7%,Bite;Vine Whip;</td,Solar Beam;Grass Knot;Crunch;</td
+513,Pansear,Pansear,Fire,Fighting,104,94,137,50%,20%,Scratch;Fire Spin;</td,Flame Charge;Flame Burst;Crunch;</td
+514,Simisear,Simisear,Fire,Fighting,206,133,181,20%,7%,Bite;Fire Spin;</td,Flamethrower;Fire Blast;Crunch;</td
+515,Panpour,Panpour,Water,Fighting,104,94,137,50%,20%,Scratch;Water Gun;</td,Water Pulse;Crunch;Surf;</td
+516,Simipour,Simipour,Water,Fighting,206,133,181,20%,7%,Bite;Water Gun;</td,Hydro Pump;Crunch;Surf;</td
+517,Munna,Munna,Psychic,Fighting,111,92,183,50%,20%,Zen Headbutt;Charge Beam;</td,Psybeam;Psyshock;Dazzling Gleam;</td
+518,Musharna,Musharna,Psychic,Fighting,183,166,253,20%,7%,Zen Headbutt;Charge Beam;</td,Psyshock;Dazzling Gleam;Future Sight;</td
+519,Pidove,Pidove,Normal,Flying,98,80,137,50%,20%,Quick Attack;Air Slash;</td,Heat Wave;Aerial Ace;Air Cutter;</td
+520,Tranquill,Tranquill,Normal,Flying,144,107,158,25%,9%,Steel Wing;Air Slash;</td,Heat Wave;Aerial Ace;Sky Attack;</td
+521,Unfezant,Unfezant,Normal,Flying,226,146,190,12.5%,5%,Steel Wing;Air Slash;</td,Hyper Beam;Heat Wave;Sky Attack;</td
+522,Blitzle,Blitzle,Electric,Flying,118,64,128,30%,10%,Spark;Quick Attack;</td,Discharge;Thunderbolt;Flame Charge;</td
+523,Zebstrika,Zebstrika,Electric,Flying,211,136,181,10%,7%,Spark;Low Kick;</td,Discharge;Flame Charge;Wild Charge;</td
+524,Roggenrola,Roggenrola,Rock,Flying,121,110,146,50%,15%,Tackle;Smack Down;</td,Stone Edge;Bulldoze;Rock Blast;</td
+525,Boldore,Boldore,Rock,Flying,174,143,172,25%,7%,Mud-Slap;Smack Down;</td,Stone Edge;Rock Slide;Bulldoze;</td
+526,Gigalith,Gigalith,Rock,Flying,226,201,198,12.5%,5%,Mud-Slap;Smack Down;</td,Rock Slide;Solar Beam;Heavy Slam;Superpower;</td
+527,Woobat,Woobat,Psychic,Flying,107,85,163,50%,20%,Confusion;Air Slash;</td,Aerial Ace;Psyshock;Air Cutter;</td
+528,Swoobat,Swoobat,Psychic,Flying,161,119,167,20%,7%,Confusion;Air Slash;</td,Aerial Ace;Psychic;Future Sight;</td
+529,Drilbur,Drilbur,Ground,Flying,154,85,155,50%,20%,Scratch;Mud-Slap;</td,Dig;Drill Run;Rock Tomb;</td
+530,Excadrill,Excadrill,Ground,Steel,255,129,242,20%,7%,Mud Shot;Metal Claw;Mud-Slap;</td,Earthquake;Drill Run;Rock Slide;Iron Head;</td
+531,Audino,Audino,Normal,Steel,114,163,230,5%,5%,Pound;Zen Headbutt;</td,Hyper Beam;Disarming Voice;Dazzling Gleam;</td
+532,Timburr,Timburr,Fighting,Steel,134,87,181,50%,15%,Low Kick;Pound;</td,Low Sweep;Rock Tomb;Brick Break;</td
+533,Gurdurr,Gurdurr,Fighting,Steel,180,134,198,25%,7%,Low Kick;Poison Jab;</td,Stone Edge;Low Sweep;Brick Break;</td
+534,Conkeldurr,Conkeldurr,Fighting,Steel,243,158,233,12.5%,5%,Poison Jab;Counter;</td,Stone Edge;Dynamic Punch;Focus Blast;</td
+535,Tympole,Tympole,Water,Steel,98,78,137,50%,15%,Mud Shot;Bubble;</td,Sludge Wave;Mud Bomb;Water Pulse;</td
+536,Palpitoad,Palpitoad,Water,Ground,128,109,181,25%,7%,Mud Shot;Bubble;</td,Sludge Wave;Water Pulse;Earth Power;</td
+537,Seismitoad,Seismitoad,Water,Ground,188,150,233,12.5%,5%,Mud Shot;Bubble;</td,Sludge Bomb;Earth Power;Muddy Water;</td
+538,Throh,Throh,Fighting,Ground,172,160,260,20%,7%,Low Kick;Zen Headbutt;</td,Low Sweep;Body Slam;Focus Blast;</td
+539,Sawk,Sawk,Fighting,Ground,231,153,181,20%,7%,Low Kick;Poison Jab;</td,Low Sweep;Body Slam;Focus Blast;</td
+540,Sewaddle,Sewaddle,Bug,Grass,96,124,128,50%,15%,Bug Bite;Struggle Bug;</td,Seed Bomb;Silver Wind;Energy Ball;</td
+541,Swadloon,Swadloon,Bug,Grass,115,162,146,25%,7%,Bug Bite;Struggle Bug;</td,Bug Buzz;Silver Wind;Energy Ball;</td
+542,Leavanny,Leavanny,Bug,Grass,205,165,181,12.5%,5%,Bug Bite;Razor Leaf;</td,X-Scissor;Leaf Blade;Silver Wind;Leaf Storm;</td
+543,Venipede,Venipede,Bug,Poison,83,99,102,30%,10%,Bug Bite;Poison Sting;</td,Sludge Bomb;Signal Beam;Gyro Ball;</td
+544,Whirlipede,Whirlipede,Bug,Poison,100,173,120,15%,5%,Bug Bite;Poison Sting;</td,Sludge Bomb;Signal Beam;Gyro Ball;</td
+545,Scolipede,Scolipede,Bug,Poison,203,175,155,20%,7%,Bug Bite;Poison Jab;</td,Megahorn;Sludge Bomb;X-Scissor;Gyro Ball;</td
+546,Cottonee,Cottonee,Grass,Fairy,71,111,120,30%,10%,Razor Leaf;Charm;</td,Seed Bomb;Grass Knot;Energy Ball;</td
+547,Whimsicott,Whimsicott,Grass,Fairy,164,176,155,15%,5%,Razor Leaf;Charm;</td,Moonblast;Hurricane;Grass Knot;</td
+548,Petilil,Petilil,Grass,Fairy,119,91,128,30%,10%,Hidden Power;Charm;</td,Seed Bomb;Energy Ball;</td
+549,Lilligant,Lilligant,Grass,Fairy,214,155,172,15%,5%,Hidden Power;Charm;</td,Hyper Beam;Petal Blizzard;Solar Beam;</td
+550,Basculin,Basculin (Red-Striped Form),Water,Fairy,189,129,172,20%,7%,Tackle;Water Gun;</td,Aqua Jet;Aqua Tail;Muddy Water;</td
+550,Basculin,Basculin (Blue-Striped Form),Water,Fairy,189,129,172,20%,7%,Tackle;Water Gun;</td,Aqua Jet;Aqua Tail;Muddy Water;</td
+551,Sandile,Sandile,Ground,Dark,132,69,137,50%,15%,Bite;Mud-Slap;</td,Dig;Bulldoze;Crunch;</td
+552,Krokorok,Krokorok,Ground,Dark,155,90,155,25%,7%,Bite;Mud-Slap;</td,Earthquake;Bulldoze;Crunch;</td
+553,Krookodile,Krookodile,Ground,Dark,229,158,216,12.5%,5%,Mud-Slap;Snarl;</td,Earthquake;Outrage;Crunch;</td
+554,Darumaka,Darumaka,Fire,Dark,153,86,172,30%,9%,Tackle;Fire Fang;</td,Flame Charge;Fire Punch;</td
+554,Darumaka,Darumaka (Galarian Darumaka),Ice,Dark,153,86,172,30%,9%,Tackle;Ice Fang;</td,Ice Punch;Ice Beam;</td
+555,Darmanitan,Darmanitan (Standard Mode),Fire,Dark,263,114,233,10%,7%,Tackle;Fire Fang;Incinerate;</td,Rock Slide;Psychic;Focus Blast;Overheat;</td
+555,Darmanitan,Darmanitan (Galarian Standard Mode),Ice,Dark,263,114,233,10%,7%,Tackle;Ice Fang;</td,Ice Punch;Avalanche;Overheat;Superpower;</td
+556,Maractus,Maractus,Grass,Dark,201,130,181,20%,7%,Poison Jab;Bullet Seed;</td,Aerial Ace;Petal Blizzard;Solar Beam;</td
+557,Dwebble,Dwebble,Bug,Rock,118,128,137,30%,10%,Cut;Smack Down;</td,Rock Tomb;X-Scissor;Rock Blast;</td
+558,Crustle,Crustle,Bug,Rock,188,200,172,10%,7%,Fury Cutter;Smack Down;</td,Rock Slide;X-Scissor;Rock Blast;</td
+559,Scraggy,Scraggy,Dark,Fighting,132,132,137,30%,9%,Feint Attack;Rock Smash;</td,Brick Break;Foul Play;Acid Spray;</td
+560,Scrafty,Scrafty,Dark,Fighting,163,222,163,10%,7%,Counter;Snarl;</td,Foul Play;Acid Spray;Power-Up Punch;</td
+561,Sigilyph,Sigilyph,Psychic,Flying,204,167,176,20%,7%,Zen Headbutt;Air Slash;</td,Psybeam;Ancient Power;Signal Beam;Air Cutter;</td
+562,Yamask,Yamask,Ghost,Flying,95,141,116,30%,10%,Zen Headbutt;Astonish;</td,Dark Pulse;Ominous Wind;Shadow Ball;Frustration;</td
+562,Yamask,Yamask (Galarian Yamask),Ground,Ghost,95,141,116,30%,10%,Astonish;</td,Rock Tomb;Night Shade;</td
+563,Cofagrigus,Cofagrigus,Ghost,Ghost,163,237,151,10%,7%,Shadow Claw;Zen Headbutt;Astonish;</td,Dark Pulse;Shadow Ball;Psychic;Frustration;</td
+564,Tirtouga,Tirtouga,Water,Rock,134,146,144,30%,10%,Bite;Water Gun;</td,Ancient Power;Body Slam;Surf;</td
+565,Carracosta,Carracosta,Water,Rock,192,197,179,10%,7%,Rock Throw;Water Gun;</td,Ancient Power;Body Slam;Surf;</td
+566,Archen,Archen,Rock,Flying,213,89,146,30%,9%,Wing Attack;Quick Attack;</td,Ancient Power;Dragon Claw;Crunch;</td
+567,Archeops,Archeops,Rock,Flying,292,139,181,10%,7%,Wing Attack;Steel Wing;</td,Ancient Power;Dragon Claw;Crunch;</td
+568,Trubbish,Trubbish,Poison,Flying,96,122,137,30%,9%,Pound;Take Down;</td,Seed Bomb;Gunk Shot;</td
+569,Garbodor,Garbodor,Poison,Flying,181,164,190,10%,7%,Infestation;Take Down;</td,Seed Bomb;Gunk Shot;Body Slam;Acid Spray;</td
+572,Minccino,Minccino,Normal,Flying,98,80,146,30%,10%,Pound;Charm;</td,Aqua Tail;Thunderbolt;Swift;</td
+573,Cinccino,Cinccino,Normal,Flying,198,130,181,10%,7%,Pound;Charm;</td,Hyper Beam;Aqua Tail;Thunderbolt;</td
+574,Gothita,Gothita,Psychic,Flying,98,112,128,50%,15%,Pound;Confusion;</td,Psybeam;Psyshock;Psychic;</td
+575,Gothorita,Gothorita,Psychic,Flying,137,153,155,25%,7%,Pound;Confusion;</td,Psybeam;Psychic;Future Sight;</td
+576,Gothitelle,Gothitelle,Psychic,Flying,176,205,172,12.5%,5%,Confusion;Charm;</td,Rock Slide;Psychic;Future Sight;</td
+577,Solosis,Solosis,Psychic,Flying,170,83,128,50%,15%,Zen Headbutt;Hidden Power;</td,Psyshock;Thunder;Night Shade;</td
+578,Duosion,Duosion,Psychic,Flying,208,103,163,25%,7%,Zen Headbutt;Hidden Power;</td,Psyshock;Thunder;Night Shade;</td
+579,Reuniclus,Reuniclus,Psychic,Flying,214,148,242,12.5%,5%,Zen Headbutt;Hidden Power;</td,Shadow Ball;Thunder;Future Sight;</td
+580,Ducklett,Ducklett,Water,Flying,84,96,158,50%,15%,Wing Attack;Water Gun;</td,Aerial Ace;Bubble Beam;Brave Bird;</td
+581,Swanna,Swanna,Water,Flying,182,132,181,40%,12%,Water Gun;Air Slash;</td,Ice Beam;Bubble Beam;Hurricane;</td
+582,Vanillite,Vanillite,Ice,Flying,118,106,113,40%,7%,Powder Snow;Astonish;</td,Ice Beam;Signal Beam;Icy Wind;</td
+583,Vanillish,Vanillish,Ice,Flying,151,138,139,5%,5%,Frost Breath;Astonish;</td,Ice Beam;Signal Beam;Icy Wind;</td
+584,Vanilluxe,Vanilluxe,Ice,Flying,218,184,174,12.5%,5%,Frost Breath;Astonish;</td,Flash Cannon;Blizzard;Signal Beam;</td
+585,Deerling,Deerling (Spring Form),Normal,Grass,115,100,155,30%,0%,Tackle;Take Down;</td,Seed Bomb;Wild Charge;Energy Ball;</td
+585,Deerling,Deerling (Autumn Form),Normal,Grass,115,100,155,30%,0%,Tackle;Take Down;</td,Seed Bomb;Wild Charge;Energy Ball;</td
+585,Deerling,Deerling (Summer Form),Normal,Grass,115,100,155,30%,0%,Tackle;Take Down;</td,Seed Bomb;Wild Charge;Energy Ball;</td
+585,Deerling,Deerling (Winter Form),Normal,Grass,115,100,155,30%,0%,Tackle;Take Down;</td,Seed Bomb;Wild Charge;Energy Ball;</td
+586,Sawsbuck,Sawsbuck (Spring Form),Normal,Grass,198,146,190,15%,0%,Feint Attack;Take Down;</td,Hyper Beam;Megahorn;Solar Beam;Wild Charge;</td
+586,Sawsbuck,Sawsbuck (Autumn Form),Normal,Grass,198,146,190,15%,0%,Feint Attack;Take Down;</td,Hyper Beam;Megahorn;Solar Beam;Wild Charge;</td
+586,Sawsbuck,Sawsbuck (Summer Form),Normal,Grass,198,146,190,15%,0%,Feint Attack;Take Down;</td,Hyper Beam;Megahorn;Solar Beam;Wild Charge;</td
+586,Sawsbuck,Sawsbuck (Winter Form),Normal,Grass,198,146,190,20%,0%,Feint Attack;Take Down;</td,Hyper Beam;Megahorn;Solar Beam;Wild Charge;</td
+587,Emolga,Emolga,Electric,Flying,158,127,146,20%,7%,Thunder Shock;Quick Attack;</td,Discharge;Aerial Ace;Thunderbolt;</td
+588,Karrablast,Karrablast,Bug,Flying,137,87,137,30%,10%,Fury Cutter;Peck;</td,Aerial Ace;Drill Run;Signal Beam;X-Scissor;</td
+589,Escavalier,Escavalier,Bug,Steel,223,187,172,12.5%,5%,Bug Bite;Counter;</td,Megahorn;Aerial Ace;Drill Run;Acid Spray;</td
+590,Foongus,Foongus,Grass,Poison,97,91,170,30%,10%,Feint Attack;Astonish;</td,Body Slam;Grass Knot;Energy Ball;</td
+591,Amoonguss,Amoonguss,Grass,Poison,155,139,249,12.5%,5%,Feint Attack;Astonish;</td,Sludge Bomb;Grass Knot;Foul Play;</td
+592,Frillish,Frillish (Male),Water,Ghost,115,134,146,30%,9%,Bubble;Hex;</td,Ice Beam;Ominous Wind;Night Shade;</td
+592,Frillish,Frillish (Female),Water,Ghost,115,134,146,30%,9%,Bubble;Hex;</td,Ice Beam;Ominous Wind;Night Shade;</td
+593,Jellicent,Jellicent (Male),Water,Ghost,159,178,225,12.5%,5%,Bubble;Hex;</td,Ice Beam;Bubble Beam;Shadow Ball;</td
+593,Jellicent,Jellicent (Female),Water,Ghost,159,178,225,12.5%,5%,Bubble;Hex;</td,Ice Beam;Bubble Beam;Shadow Ball;</td
+594,Alomomola,Alomomola,Water,Ghost,138,131,338,20%,7%,Hidden Power;Waterfall;</td,Blizzard;Hydro Pump;Psychic;</td
+595,Joltik,Joltik,Bug,Electric,110,98,137,30%,10%,Sucker Punch;Charge Beam;</td,Discharge;Bug Buzz;Cross Poison;</td
+596,Galvantula,Galvantula,Bug,Electric,201,128,172,12.5%,5%,Fury Cutter;Volt Switch;</td,Discharge;Bug Buzz;Cross Poison;Energy Ball;Lunge;</td
+597,Ferroseed,Ferroseed,Grass,Steel,82,155,127,30%,9%,Tackle;Metal Claw;</td,Flash Cannon;Iron Head;Gyro Ball;</td
+598,Ferrothorn,Ferrothorn,Grass,Steel,158,223,179,12.5%,5%,Metal Claw;Bullet Seed;</td,Flash Cannon;Thunder;Power Whip;Acid Spray;Mirror Shot;</td
+599,Klink,Klink,Steel,Steel,98,121,120,40%,10%,Charge Beam;Volt Switch;</td,Vise Grip;Discharge;Zap Cannon;</td
+600,Klang,Klang,Steel,Steel,150,174,155,10%,7%,Thunder Shock;Charge Beam;</td,Vise Grip;Thunderbolt;Zap Cannon;</td
+601,Klinklang,Klinklang,Steel,Steel,199,214,155,5%,5%,Thunder Shock;Charge Beam;</td,Hyper Beam;Flash Cannon;Zap Cannon;Mirror Shot;</td
+602,Tynamo,Tynamo,Electric,Steel,105,78,111,40%,15%,Spark;Tackle;</td,Struggle;</td
+603,Eelektrik,Eelektrik,Electric,Steel,156,130,163,10%,7%,Spark;Acid;</td,Discharge;Thunderbolt;Crunch;</td
+604,Eelektross,Eelektross,Electric,Steel,217,152,198,5%,5%,Spark;Acid;</td,Thunderbolt;Dragon Claw;Crunch;Acid Spray;</td
+605,Elgyem,Elgyem,Psychic,Steel,148,100,146,30%,10%,Confusion;Astonish;</td,Dark Pulse;Psybeam;Psychic;</td
+606,Beheeyem,Beheeyem,Psychic,Steel,221,163,181,15%,5%,Confusion;Astonish;</td,Dark Pulse;Rock Slide;Psychic;</td
+607,Litwick,Litwick,Ghost,Fire,108,98,137,40%,9%,Ember;Astonish;</td,Heat Wave;Flame Charge;Flame Burst;</td
+608,Lampent,Lampent,Ghost,Fire,169,115,155,10%,7%,Ember;Astonish;</td,Heat Wave;Flame Burst;Energy Ball;</td
+609,Chandelure,Chandelure,Ghost,Fire,271,182,155,5%,5%,Hex;Fire Spin;Incinerate;</td,Shadow Ball;Flame Charge;Overheat;Energy Ball;</td
+610,Axew,Axew,Dragon,Fire,154,101,130,40%,9%,Scratch;Iron Tail;</td,Aqua Tail;Dragon Pulse;Dragon Claw;</td
+611,Fraxure,Fraxure,Dragon,Fire,212,123,165,10%,7%,Dragon Tail;Iron Tail;</td,Night Slash;Aqua Tail;Dragon Claw;</td
+612,Haxorus,Haxorus,Dragon,Fire,284,172,183,5%,5%,Counter;Dragon Tail;</td,Earthquake;Night Slash;Dragon Claw;Surf;</td
+613,Cubchoo,Cubchoo,Ice,Fire,128,74,146,30%,10%,Powder Snow;Charm;</td,Ice Punch;Play Rough;Icy Wind;</td
+614,Beartic,Beartic,Ice,Fire,233,152,216,15%,5%,Powder Snow;Charm;</td,Ice Punch;Play Rough;Surf;</td
+615,Cryogonal,Cryogonal,Ice,Fire,190,218,190,20%,7%,Ice Shard;Frost Breath;</td,Night Slash;Water Pulse;Solar Beam;Aurora Beam;</td
+616,Shelmet,Shelmet,Bug,Fire,72,140,137,30%,10%,Acid;Infestation;</td,Bug Buzz;Signal Beam;Body Slam;</td
+617,Accelgor,Accelgor,Bug,Fire,220,120,190,15%,5%,Acid;Infestation;</td,Bug Buzz;Signal Beam;Focus Blast;Acid Spray;</td
+618,Stunfisk,Stunfisk,Ground,Electric,144,171,240,20%,7%,Thunder Shock;Mud Shot;</td,Discharge;Mud Bomb;Muddy Water;</td
+618,Stunfisk,Stunfisk (Galarian Stunfisk),Ground,Steel,144,171,240,20%,7%,Mud Shot;Metal Claw;</td,Earthquake;Flash Cannon;Rock Slide;Muddy Water;</td
+619,Mienfoo,Mienfoo,Fighting,Steel,160,98,128,30%,10%,Low Kick;Pound;</td,Low Sweep;Brick Break;Focus Blast;</td
+620,Mienshao,Mienshao,Fighting,Steel,258,127,163,15%,5%,Low Kick;Poison Jab;</td,Stone Edge;Brick Break;Grass Knot;</td
+622,Golett,Golett,Ground,Ghost,127,92,153,30%,10%,Mud-Slap;Astonish;</td,Shadow Punch;Brick Break;Night Shade;</td
+623,Golurk,Golurk,Ground,Ghost,222,154,205,15%,5%,Mud-Slap;Astonish;</td,Shadow Punch;Dynamic Punch;Earth Power;</td
+624,Pawniard,Pawniard,Dark,Steel,154,114,128,30%,9%,Fury Cutter;Scratch;</td,Night Slash;Iron Head;X-Scissor;</td
+625,Bisharp,Bisharp,Dark,Steel,232,176,163,15%,5%,Metal Claw;Snarl;</td,Dark Pulse;Iron Head;X-Scissor;Focus Blast;</td
+626,Bouffalant,Bouffalant,Normal,Steel,195,182,216,20%,7%,Mud Shot;Zen Headbutt;</td,Megahorn;Earthquake;Stomp;Skull Bash;</td
+627,Rufflet,Rufflet,Normal,Flying,150,97,172,30%,10%,Wing Attack;Peck;</td,Aerial Ace;Rock Tomb;Brave Bird;</td
+628,Braviary,Braviary,Normal,Flying,232,152,225,15%,5%,Steel Wing;Air Slash;</td,Heat Wave;Rock Slide;Close Combat;Brave Bird;</td
+629,Vullaby,Vullaby,Dark,Flying,105,139,172,30%,10%,Feint Attack;Air Slash;</td,Dark Pulse;Brave Bird;Foul Play;</td
+630,Mandibuzz,Mandibuzz,Dark,Flying,129,205,242,15%,5%,Air Slash;Snarl;</td,Dark Pulse;Aerial Ace;Shadow Ball;Foul Play;</td
+631,Heatmor,Heatmor,Fire,Flying,204,129,198,20%,7%,Lick;Fire Spin;</td,Flamethrower;Thunder Punch;Power-Up Punch;</td
+632,Durant,Durant,Bug,Steel,217,188,151,20%,7%,Bug Bite;Metal Claw;</td,Stone Edge;Iron Head;X-Scissor;</td
+633,Deino,Deino,Dark,Dragon,116,93,141,40%,9%,Dragon Breath;Tackle;</td,Dragon Pulse;Body Slam;Crunch;</td
+634,Zweilous,Zweilous,Dark,Dragon,159,135,176,10%,7%,Bite;Dragon Breath;</td,Dark Pulse;Dragon Pulse;Body Slam;</td
+635,Hydreigon,Hydreigon,Dark,Dragon,256,188,211,5%,5%,Bite;Dragon Breath;</td,Dark Pulse;Flash Cannon;Dragon Pulse;</td
+638,Cobalion,Cobalion,Steel,Fighting,192,229,209,2%,1%,Metal Claw;Zen Headbutt;</td,Stone Edge;Iron Head;Close Combat;Sacred Sword;</td
+639,Terrakion,Terrakion,Rock,Fighting,260,192,209,2%,1%,Zen Headbutt;Smack Down;</td,Earthquake;Rock Slide;Close Combat;Sacred Sword;</td
+640,Virizion,Virizion,Grass,Fighting,192,229,209,2%,1%,Quick Attack;Zen Headbutt;</td,Stone Edge;Leaf Blade;Close Combat;Sacred Sword;</td
+641,Tornadus,Tornadus (Incarnate Forme),Flying,Fighting,266,164,188,2%,1%,Bite;Air Slash;</td,Hyper Beam;Dark Pulse;Hurricane;Grass Knot;</td
+641,Tornadus,Tornadus (Therian Forme),Flying,Fighting,238,189,188,2%,1%,Astonish;Gust;</td,Heat Wave;Psychic;Hurricane;Focus Blast;</td
+642,Thundurus,Thundurus (Incarnate Forme),Electric,Flying,266,164,188,2%,1%,Thunder Shock;Astonish;</td,Thunder Punch;Thunder;Brick Break;Crunch;</td
+642,Thundurus,Thundurus (Therian Forme),Electric,Flying,295,161,188,2%,1%,Bite;Volt Switch;</td,Thunder;Thunderbolt;Sludge Wave;Focus Blast;</td
+643,Reshiram,Reshiram,Dragon,Fire,275,211,205,2%,1%,Dragon Breath;Fire Fang;</td,Stone Edge;Overheat;Crunch;Draco Meteor;</td
+644,Zekrom,Zekrom,Dragon,Electric,275,211,205,2%,1%,Dragon Breath;Charge Beam;</td,Flash Cannon;Wild Charge;Outrage;Crunch;</td
+645,Landorus,Landorus (Incarnate Forme),Ground,Flying,261,182,205,2%,1%,Mud Shot;Rock Throw;</td,Rock Slide;Focus Blast;Outrage;Earth Power;</td
+645,Landorus,Landorus (Therian Forme),Ground,Flying,289,179,205,2%,1%,Mud Shot;Extrasensory;</td,Earthquake;Stone Edge;Bulldoze;Superpower;</td
+646,Kyurem,Kyurem,Dragon,Ice,246,170,245,2%,1%,Dragon Breath;Steel Wing;</td,Blizzard;Dragon Claw;Draco Meteor;</td
+648,Meloetta,Meloetta (Aria Forme),Normal,Psychic,250,225,225,100%,0%,Quick Attack;Confusion;</td,Hyper Beam;Psyshock;Thunderbolt;Dazzling Gleam;</td
+649,Genesect,Genesect,Bug,Steel,252,199,174,2%,1%,Fury Cutter;Metal Claw;</td,Hyper Beam;Magnet Bomb;X-Scissor;</td
+649,Genesect,Genesect (Burn Drive),Bug,Steel,252,199,174,2%,1%,Fury Cutter;Metal Claw;</td,Flamethrower;Magnet Bomb;X-Scissor;Techno Blast - Fire;</td
+650,Chespin,Chespin,Grass,Steel,110,106,148,20%,10%,Vine Whip;Take Down;</td,Seed Bomb;Body Slam;Gyro Ball;</td
+651,Quilladin,Quilladin,Grass,Steel,146,156,156,10%,10%,Low Kick;Vine Whip;</td,Body Slam;Gyro Ball;Energy Ball;</td
+652,Chesnaught,Chesnaught,Grass,Fighting,201,204,204,5%,10%,Low Kick;Vine Whip;Smack Down;</td,Solar Beam;Gyro Ball;Energy Ball;Superpower;</td
+653,Fennekin,Fennekin,Fire,Fighting,116,102,120,20%,10%,Ember;Scratch;</td,Flamethrower;Psyshock;Flame Charge;</td
+654,Braixen,Braixen,Fire,Fighting,171,130,153,10%,10%,Ember;Scratch;</td,Flamethrower;Psyshock;Flame Charge;</td
+655,Delphox,Delphox,Fire,Psychic,230,189,181,5%,10%,Scratch;Zen Headbutt;Fire Spin;</td,Flamethrower;Flame Charge;Fire Blast;Psychic;</td
+656,Froakie,Froakie,Water,Psychic,122,84,121,20%,10%,Pound;Bubble;</td,Aerial Ace;Water Pulse;Surf;</td
+657,Frogadier,Frogadier,Water,Psychic,168,114,144,10%,10%,Pound;Bubble;</td,Aerial Ace;Water Pulse;Surf;</td
+658,Greninja,Greninja,Water,Dark,223,152,176,5%,10%,Bubble;Feint Attack;</td,Aerial Ace;Night Slash;Hydro Pump;Surf;</td
+659,Bunnelby,Bunnelby,Normal,Dark,68,72,116,50%,10%,Quick Attack;Mud-Slap;</td,Dig;Earthquake;Bulldoze;</td
+660,Diggersby,Diggersby,Normal,Ground,112,155,198,20%,10%,Mud Shot;Quick Attack;</td,Hyper Beam;Dig;Earthquake;Fire Punch;</td
+661,Fletchling,Fletchling,Normal,Flying,95,80,128,50%,20%,Peck;Quick Attack;</td,Heat Wave;Aerial Ace;Swift;</td
+662,Fletchinder,Fletchinder,Fire,Flying,145,110,158,25%,9%,Ember;Peck;Steel Wing;</td,Heat Wave;Aerial Ace;Flame Charge;</td
+663,Talonflame,Talonflame,Fire,Flying,176,155,186,12.5%,5%,Peck;Steel Wing;Fire Spin;Incinerate;</td,Flame Charge;Fire Blast;Hurricane;Brave Bird;</td
+667,Litleo,Litleo,Fire,Normal,139,112,158,50%,20%,Ember;Tackle;Fire Fang;</td,Flamethrower;Flame Charge;Crunch;</td
+668,Pyroar,Pyroar (Male),Fire,Normal,221,149,200,20%,7%,Ember;Fire Fang;Take Down;</td,Dark Pulse;Flame Charge;Solar Beam;Overheat;</td
+668,Pyroar,Pyroar (Female),Fire,Normal,221,149,200,20%,7%,Fire Fang;Take Down;</td,Dark Pulse;Flame Charge;Solar Beam;Overheat;</td
+674,Pancham,Pancham,Fighting,Normal,145,107,167,30%,9%,Low Kick;Tackle;</td,Low Sweep;Body Slam;Crunch;</td
+675,Pangoro,Pangoro,Fighting,Dark,226,146,216,10%,7%,Low Kick;Bullet Punch;Snarl;</td,Night Slash;Rock Slide;Iron Head;Close Combat;</td
+676,Furfrou,Furfrou (Natural Trim),Normal,Dark,164,167,181,20%,7%,Bite;Sucker Punch;Take Down;</td,Dark Pulse;Grass Knot;Surf;</td
+676,Furfrou,Furfrou (Heart Trim),Normal,Dark,164,167,181,20%,7%,Bite;Sucker Punch;Take Down;</td,Dark Pulse;Grass Knot;Surf;</td
+676,Furfrou,Furfrou (Star Trim),Normal,Dark,164,167,181,20%,7%,Bite;Sucker Punch;Take Down;</td,Dark Pulse;Grass Knot;Surf;</td
+676,Furfrou,Furfrou (Diamond Trim),Normal,Dark,164,167,181,20%,7%,Bite;Sucker Punch;Take Down;</td,Dark Pulse;Grass Knot;Surf;</td
+676,Furfrou,Furfrou (Debutante Trim),Normal,Dark,164,167,181,20%,7%,Bite;Sucker Punch;Take Down;</td,Dark Pulse;Grass Knot;Surf;</td
+676,Furfrou,Furfrou (Matron Trim),Normal,Dark,164,167,181,20%,7%,Bite;Sucker Punch;Take Down;</td,Dark Pulse;Grass Knot;Surf;</td
+676,Furfrou,Furfrou (Dandy Trim),Normal,Dark,164,167,181,20%,7%,Bite;Sucker Punch;Take Down;</td,Dark Pulse;Grass Knot;Surf;</td
+676,Furfrou,Furfrou (La Reine Trim),Normal,Dark,164,167,181,20%,7%,Bite;Sucker Punch;Take Down;</td,Dark Pulse;Grass Knot;Surf;</td
+676,Furfrou,Furfrou (Kabuki Trim),Normal,Dark,164,167,181,20%,7%,Bite;Sucker Punch;Take Down;</td,Dark Pulse;Grass Knot;Surf;</td
+676,Furfrou,Furfrou (Pharaoh Trim),Normal,Dark,164,167,181,20%,7%,Bite;Sucker Punch;Take Down;</td,Dark Pulse;Grass Knot;Surf;</td
+677,Espurr,Espurr,Psychic,Dark,120,114,158,40%,10%,Scratch;Confusion;</td,Psyshock;Psychic;Energy Ball;</td
+678,Meowstic,Meowstic (Male),Psychic,Dark,166,167,179,20%,7%,Sucker Punch;Confusion;</td,Thunderbolt;Psychic;Energy Ball;</td
+678,Meowstic,Meowstic (Female),Psychic,Dark,166,167,179,20%,7%,Confusion;Charm;</td,Shadow Ball;Psychic;Energy Ball;</td
+682,Spritzee,Spritzee,Fairy,Dark,110,113,186,20%,10%,Charge Beam;Charm;</td,Thunderbolt;Draining Kiss;</td
+683,Aromatisse,Aromatisse,Fairy,Dark,173,150,226,20%,10%,Charge Beam;Charm;</td,Thunderbolt;Draining Kiss;Moonblast;Psychic;</td
+684,Swirlix,Swirlix,Fairy,Dark,109,119,158,20%,10%,Tackle;</td,Draining Kiss;Energy Ball;</td
+685,Slurpuff,Slurpuff,Fairy,Dark,168,163,193,20%,10%,Tackle;Charm;</td,Flamethrower;Draining Kiss;Play Rough;Energy Ball;</td
+686,Inkay,Inkay,Dark,Psychic,98,95,142,20%,10%,Peck;Tackle;</td,Psybeam;Night Slash;</td
+687,Malamar,Malamar,Dark,Psychic,177,165,200,20%,10%,Peck;Psycho Cut;</td,Hyper Beam;Psybeam;Foul Play;Superpower;</td
+688,Binacle,Binacle,Rock,Water,96,120,123,20%,10%,Scratch;Mud-Slap;</td,Dig;Cross Chop;Ancient Power;</td
+689,Barbaracle,Barbaracle,Rock,Water,194,205,176,20%,10%,Fury Cutter;Water Gun;Mud-Slap;</td,Cross Chop;Stone Edge;Grass Knot;Skull Bash;</td
+690,Skrelp,Skrelp,Poison,Water,109,109,137,20%,10%,Acid;Water Gun;</td,Aqua Tail;Twister;Sludge Bomb;Water Pulse;</td
+691,Dragalge,Dragalge,Poison,Dragon,177,207,163,20%,10%,Acid;Water Gun;Dragon Tail;</td,Aqua Tail;Gunk Shot;Hydro Pump;Outrage;</td
+692,Clauncher,Clauncher,Water,Dragon,108,117,137,20%,10%,Water Gun;Smack Down;</td,Aqua Jet;Water Pulse;Crabhammer;</td
+693,Clawitzer,Clawitzer,Water,Dragon,221,171,174,20%,10%,Water Gun;Smack Down;</td,Dark Pulse;Ice Beam;Water Pulse;Crabhammer;</td
+700,Sylveon,Sylveon,Fairy,Dragon,203,205,216,12.5%,6%,Quick Attack;Charm;</td,Psyshock;</td
+704,Goomy,Goomy,Dragon,Dragon,101,112,128,40%,9%,Tackle;Water Gun;</td,Dragon Pulse;Sludge Wave;Muddy Water;</td
+705,Sliggoo,Sliggoo,Dragon,Dragon,159,176,169,10%,7%,Tackle;Water Gun;</td,Dragon Pulse;Sludge Wave;Water Pulse;Muddy Water;</td
+706,Goodra,Goodra,Dragon,Dragon,220,242,207,5%,5%,Dragon Breath;Water Gun;</td,Sludge Wave;Power Whip;Draco Meteor;Muddy Water;</td
+707,Klefki,Klefki,Steel,Fairy,160,179,149,20%,10%,Tackle;Astonish;</td,Flash Cannon;Draining Kiss;Play Rough;Foul Play;</td
+708,Phantump,Phantump,Ghost,Grass,125,103,125,30%,10%,Tackle;Astonish;</td,Seed Bomb;Shadow Ball;Foul Play;</td
+709,Trevenant,Trevenant,Ghost,Grass,201,154,198,15%,5%,Sucker Punch;Shadow Claw;</td,Seed Bomb;Shadow Ball;Foul Play;</td
+710,Pumpkaboo,Pumpkaboo (Average Size),Ghost,Grass,121,123,135,30%,10%,Razor Leaf;Astonish;</td,Shadow Sneak;Grass Knot;Foul Play;</td
+710,Pumpkaboo,Pumpkaboo (Small Size),Ghost,Grass,122,124,127,30%,10%,Razor Leaf;Astonish;</td,Shadow Sneak;Grass Knot;Foul Play;</td
+710,Pumpkaboo,Pumpkaboo (Large Size),Ghost,Grass,120,122,144,30%,10%,Razor Leaf;Astonish;</td,Shadow Sneak;Grass Knot;Foul Play;</td
+710,Pumpkaboo,Pumpkaboo (Super Size),Ghost,Grass,118,120,153,30%,10%,Razor Leaf;Astonish;</td,Shadow Sneak;Grass Knot;Foul Play;</td
+711,Gourgeist,Gourgeist (Average Size),Ghost,Grass,175,213,163,12.5%,6%,Razor Leaf;Hex;</td,Seed Bomb;Shadow Ball;Fire Blast;Foul Play;</td
+711,Gourgeist,Gourgeist (Small Size),Ghost,Grass,171,219,146,12.5%,6%,Razor Leaf;Hex;</td,Seed Bomb;Shadow Ball;Fire Blast;Foul Play;</td
+711,Gourgeist,Gourgeist (Large Size),Ghost,Grass,179,206,181,12.5%,6%,Razor Leaf;Hex;</td,Seed Bomb;Shadow Ball;Fire Blast;Foul Play;</td
+711,Gourgeist,Gourgeist (Super Size),Ghost,Grass,182,200,198,12.5%,6%,Razor Leaf;Hex;</td,Seed Bomb;Shadow Ball;Fire Blast;Foul Play;</td
+714,Noibat,Noibat,Flying,Dragon,83,73,120,40%,9%,Bite;Wing Attack;</td,Heat Wave;Dragon Pulse;Air Cutter;</td
+715,Noivern,Noivern,Flying,Dragon,205,175,198,15%,5%,Bite;Air Slash;</td,Heat Wave;Psychic;Hurricane;Draco Meteor;</td
+716,Xerneas,Xerneas,Fairy,Dragon,250,185,246,2%,10%,Tackle;Zen Headbutt;</td,Megahorn;Thunder;Moonblast;Close Combat;Giga Impact;</td
+717,Yveltal,Yveltal,Dark,Flying,250,185,246,2%,10%,Sucker Punch;Snarl;Gust;</td,Hyper Beam;Dark Pulse;Psychic;Hurricane;Focus Blast;</td
+720,Hoopa,Hoopa (Hoopa Confined),Psychic,Ghost,261,187,173,100%,0%,Confusion;Astonish;</td,Psybeam;Shadow Ball;Psychic;</td
+808,Meltan,Meltan,Steel,Ghost,118,99,130,30%,0%,Thunder Shock;</td,Flash Cannon;Thunderbolt;</td
+809,Melmetal,Melmetal,Steel,Ghost,226,190,264,30%,0%,Thunder Shock;</td,Hyper Beam;Flash Cannon;Rock Slide;Thunderbolt;Superpower;</td
+819,Skwovet,Skwovet,Normal,Ghost,95,86,172,60%,10%,Bite;Tackle;Bullet Seed;</td,Body Slam;Crunch;</td
+820,Greedent,Greedent,Normal,Ghost,160,156,260,30%,7%,Bite;Tackle;Bullet Seed;</td,Body Slam;Crunch;</td
+831,Wooloo,Wooloo,Normal,Ghost,76,97,123,50%,10%,Tackle;Take Down;</td,Stomp;Wild Charge;Payback;</td
+832,Dubwool,Dubwool,Normal,Ghost,159,198,176,20%,7%,Tackle;Take Down;</td,Body Slam;Wild Charge;Payback;</td
+862,Obstagoon,Obstagoon,Dark,Normal,180,194,212,4%,4%,Lick;Counter;</td,Hyper Beam;Cross Chop;Night Slash;Gunk Shot;Frustration;</td
+863,Perrserker,Perrserker,Steel,Normal,195,162,172,10%,7%,Shadow Claw;Metal Claw;</td,Iron Head;Play Rough;Close Combat;Foul Play;</td
+865,Sirfetch'd,Sirfetch'd,Fighting,Normal,248,176,158,10%,7%,Fury Cutter;Counter;</td,Night Slash;Leaf Blade;Close Combat;Brave Bird;Frustration;</td
+866,Mr. Rime,Mr. Rime,Ice,Psychic,212,179,190,30%,9%,Ice Shard;Zen Headbutt;Confusion;</td,Psybeam;Ice Punch;Psychic;Icy Wind;Frustration;</td
+867,Runerigus,Runerigus,Ground,Ghost,163,237,151,10%,7%,Astonish;</td,Rock Tomb;Shadow Ball;Sand Tomb;Frustration;</td
+870,Falinks,Falinks,Fighting,Ghost,193,170,163,20%,10%,Rock Smash;Counter;</td,Megahorn;Brick Break;Superpower;</td
+888,Zacian,Zacian (Hero of Many Battles),Fairy,Ghost,254,236,192,2%,10%,Quick Attack;Metal Claw;Fire Fang;Snarl;</td,Iron Head;Play Rough;Close Combat;Wild Charge;</td
+889,Zamazenta,Zamazenta (Hero of Many Battles),Fighting,Ghost,254,236,192,2%,10%,Quick Attack;Metal Claw;Snarl;Ice Fang;</td,Iron Head;Moonblast;Close Combat;Crunch;</td
+893,Zarude,Zarude,Dark,Grass,242,215,233,10%,0%,Bite;Vine Whip;</td,Dark Pulse;Power Whip;Energy Ball;</td

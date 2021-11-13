@@ -11,7 +11,7 @@ parenPattern = re.compile(r'\s\((legacy|Shadow|Community Day)\)')
 #spanPattern = re.compile(r"</?span[^<>]*>")
 #parenPattern = re.compile(r"\s\(.*\)")
 
-movecombosCSV = "Pokemon Move Combinations.csv"
+movecombosCSV = "pokeData/Pokemon Move Combinations.csv"
 
 def move_combinations():
     pokedexEntries = requests.get('https://pokemondb.net/go/pokedex')
