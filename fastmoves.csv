@@ -1,0 +1,86 @@
+Name,Type,Power,Turns,Energy
+Tackle,Normal,3 ,1,2 
+Acid,Poison,6 ,2,5 
+Bite,Dark,4 ,1,2 
+Bubble,Water,7 ,3,11 
+Bug Bite,Bug,3 ,1,3 
+Bullet Punch,Steel,6 ,2,7 
+Confusion,Psychic,16 ,4,12 
+Dragon Breath,Dragon,4 ,1,3 
+Ember,Fire,7 ,2,6 
+Feint Attack,Dark,6 ,2,6 
+Fire Fang,Fire,8 ,2,5 
+Fury Cutter,Bug,2 ,1,4 
+Frost Breath,Ice,7 ,2,5 
+Karate Chop,Fighting,5 ,2,8 
+Low Kick,Fighting,4 ,2,5 
+Lick,Ghost,3 ,1,3 
+Metal Claw,Steel,5 ,2,6 
+Mud Shot,Ground,3 ,2,9 
+Mud Slap,Ground,11 ,3,8 
+Peck,Flying,6 ,2,5 
+Poison Sting,Poison,3 ,2,9 
+Pound,Normal,5 ,2,4 
+Psycho Cut,Psychic,3 ,2,9 
+Quick Attack,Normal,5 ,2,7 
+Razor Leaf,Grass,10 ,2,4 
+Rock Smash,Fighting,9 ,3,6 
+Rock Throw,Rock,8 ,2,5 
+Scratch,Normal,4 ,1,2 
+Spark,Electric,4 ,2,8 
+Steel Wing,Steel,7 ,2,5 
+Sucker Punch,Dark,5 ,2,7 
+Thunder Shock,Electric,3 ,2,9 
+Vine Whip,Grass,5 ,3,8 
+Water Gun,Water,3 ,1,3 
+Wing Attack,Flying,5 ,2,7 
+Zen Headbutt,Psychic,8 ,3,6 
+Poison Jab,Poison,7 ,2,7 
+Ice Shard,Ice,9 ,3,10 
+Shadow Claw,Ghost,6 ,2,8 
+Splash,Water,0 ,4,12 
+Cut,Normal,3 ,1,2 
+Transform,Normal,0 ,3,0 
+Counter,Fighting,8 ,2,7 
+Powder Snow,Ice,5 ,2,8 
+Charge Beam,Electric,5 ,3,11 
+Volt Switch,Electric,12 ,4,16 
+Dragon Tail,Dragon,13 ,3,9 
+Air Slash,Flying,9 ,3,9 
+Infestation,Bug,6 ,3,12 
+Struggle Bug,Bug,9 ,3,8 
+Astonish,Ghost,5 ,3,9 
+Hex,Ghost,6 ,3,12 
+Iron Tail,Steel,9 ,3,6 
+Fire Spin,Fire,9 ,3,10 
+Bullet Seed,Grass,5 ,3,13 
+Extrasensory,Psychic,8 ,3,10 
+Snarl,Dark,5 ,3,13 
+Hidden Power,Normal,9 ,3,8 
+Present,Normal,3 ,3,12 
+Waterfall,Water,12 ,3,8 
+Yawn,Normal,0 ,4,12 
+Take Down,Normal,5 ,3,8 
+Smack Down,Rock,12 ,3,8 
+Charm,Fairy,16 ,3,6 
+Ice Fang,Ice,8 ,2,5 
+Thunder Fang,Electric,8 ,2,5 
+Lock-On,Normal,1 ,1,5 
+Hidden Power (Fire),Fire,9 ,3,8 
+Hidden Power (Fighting),Fighting,9 ,3,8 
+Hidden Power (Water),Water,9 ,3,8 
+Hidden Power (Flying),Flying,9 ,3,8 
+Hidden Power (Grass),Grass,9 ,3,8 
+Hidden Power (Poison),Poison,9 ,3,8 
+Hidden Power (Electric),Electric,9 ,3,8 
+Hidden Power (Ground),Ground,9 ,3,8 
+Hidden Power (Psychic),Psychic,9 ,3,8 
+Hidden Power (Rock),Rock,9 ,3,8 
+Hidden Power (Ice),Ice,9 ,3,8 
+Hidden Power (Bug),Bug,9 ,3,8 
+Hidden Power (Dragon),Dragon,9 ,3,8 
+Hidden Power (Ghost),Ghost,9 ,3,8 
+Hidden Power (Dark),Dark,9 ,3,8 
+Hidden Power (Steel),Steel,9 ,3,8 
+Gust,Flying,16 ,5,12 
+Incinerate,Fire,15 ,5,20 
