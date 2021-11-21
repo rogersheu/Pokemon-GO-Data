@@ -8,6 +8,10 @@ Objectives
 ==========
 Develop a dashboard or at least tools that would help me formulate a gameplan for her extensive Pokemon collection. Luckily, she has a few iterations of most meta-dominant Pokemon, which is crucial for developing a roadmap. However, she also hasn't optimized her individual Pokemon outside of leveling up high-IV (high stat) Pokemon, so very few of them have two charge moves. Restrictions include only one charge move and no XL pokemon (too difficult to farm up without spending lots of money).
 
+Usage
+==========
+Feel free to download the full set of files as a ZIP. If you are only interested in the data, you can find it in CSVs in the pokeData folder.
+
 Code - Scraping
 ==========
 I needed to acquire data on numerous different aspects of the Pokemon GO experience.
