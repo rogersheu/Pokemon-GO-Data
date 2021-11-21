@@ -43,6 +43,7 @@ Some interesting conclusions were determined.
 ![image](https://user-images.githubusercontent.com/78449574/142749886-4b638a77-a9dc-46d3-9a8a-09e60f7ed7b1.png)
 
 
-Future Possibilities
+Future Improvements
 ==========
-Randomized teams of 3 fighting each other, and the winningest combinations have a weighted-chance of reappearing.
+* Mark buffing/debuffing moves on the Tableau graph.
+* Randomized teams of 3 fighting each other, and the winningest combinations have a weighted-chance of reappearing.
