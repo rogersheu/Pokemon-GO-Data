@@ -1,3 +1,7 @@
+# We want a list of all Pokemon and some of their basic data, including type/attack/defense/stamina/move lists
+# We also need to account for variations of the same Pokemon, with Name and FullName headings.
+# Data source: https://pokemondb.net/go/pokedex
+
 from bs4 import BeautifulSoup
 import requests
 import csv

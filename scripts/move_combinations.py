@@ -1,3 +1,7 @@
+# Using an online list of Pokemon and their possible moves (with Pokemon types and move types)
+# Outputs every combination of 1 fast move and 1 charge move for a Pokemon
+# Data source: https://pokemondb.net/go/pokedex
+
 from bs4 import BeautifulSoup
 import requests
 import csv

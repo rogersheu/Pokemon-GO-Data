@@ -1,3 +1,11 @@
+# Calculates DPS.
+
+# Inputs: Move combination CSV, Fast Move CSV, Charge Move CSV, Ultra League Stats CSV
+# Calculates Fast DPS, including same type attack bonus, Pokemon attack at 2500CP, and a Pokemon defense of 100
+# Does the same for Charge DPS
+# Outputs a CSV containing a large table of data (see headers)
+
+
 import csv
 import math
 from csv_functions import write_to_csv
@@ -61,7 +69,7 @@ def dps_calculation():
                     sametypeattackbonus_charge = 1
 
                 # Weather attack bonus?
-                # Friendship attack bonus?'
+                # Friendship attack bonus?
                 turnTime = int(fastTurns) * 0.5
                 fastDPS = round(math.floor(0.5* (int(fastPower) * float(pokeAttack) / 100 * sametypeattackbonus_fast) + 1) / turnTime, 2)
                 fastmovesforfullcharge = int(chargeEnergy) / int(fastEnergy)

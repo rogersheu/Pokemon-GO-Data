@@ -1,3 +1,5 @@
+# Compiles a list of fast moves and charge moves, along with their power and energy stats.
+
 from bs4 import BeautifulSoup
 import requests
 import csv
