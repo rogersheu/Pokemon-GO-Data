@@ -1,17 +1,21 @@
 import csv
+import os
 
-def write_to_csv(fileName,list_input):
+def write_to_csv(fileName, list_input):
     try:
-        with open(fileName, 'a', newline='') as fopen:  # Open the csv.
+        # Open the csv.
+        with open(fileName, "a", newline="") as fopen:
             csv_writer = csv.writer(fopen)
             csv_writer.writerow(list_input)
-    except:
+
+    except FileNotFoundError:
         return False
+
 
 def reset_csv(fileName):
     try:
-        tobeDeleted = open(fileName, 'r+')
-        tobeDeleted.truncate(0) # need '0' when using r+
+        tobeDeleted = open(fileName, "r+")
+        tobeDeleted.truncate(0)  # need '0' when using r+
 
-    except:
+    except FileNotFoundError:
         return False

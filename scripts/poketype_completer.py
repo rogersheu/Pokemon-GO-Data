@@ -1,5 +1,6 @@
 # Turns three letter abbreviated types into their full word format
 
+# Could have been done with a dictionary. See team_mapping in rogersheu/All-Star-Predictions.
 
 from csv_functions import reset_csv, write_to_csv
 import csv

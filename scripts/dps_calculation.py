@@ -68,6 +68,9 @@ def dps_calculation():
                 else:
                     sametypeattackbonus_charge = 1
 
+
+                # Should I be using NumPy arrays to speed up this process?
+
                 # Weather attack bonus?
                 # Friendship attack bonus?
                 turnTime = int(fastTurns) * 0.5
